@@ -1,0 +1,7211 @@
+[
+  {
+    "paper_id": "88",
+    "title": "Leveraging Foundation Models for Clinical Text Analysis",
+    "conference": "TheWebConf2023 Companion",
+    "assigned_reviewers": [
+      "144163817",
+      "1721059",
+      "3446997"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "98",
+    "title": "Computable biomedical knowledge as a resource and a service: An infrastructural approach to knowledge representation, dissemination, and implementation",
+    "conference": "TheWebConf2023 Companion",
+    "assigned_reviewers": [
+      "144163817",
+      "1721059",
+      "3446997"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "111",
+    "title": "Plenary Speeches of the Parliament of Finland as Linked Open Data and Data Services",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "145267753",
+      "134199365",
+      "2052329"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "113",
+    "title": "The Utilization of Artificial Intelligence for Developing Autonomous Social Robots within Health Information Systems",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "2522516",
+      "2052329"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "114",
+    "title": "Semantification of CEUR WS with Wikidata as a target Knowledge Graph",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "2627116",
+      "2689774"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "115",
+    "title": "Knowledge graph data enrichment based on a software library for text mapping to the Sustainable Development Goals",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "40520756",
+      "2627116"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "116",
+    "title": "A comprehensive methodology for re evaluation of Knowledge Graph embedding models",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "2683157",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "117",
+    "title": "Ont OCEL: An ontology based representation for OCEL",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "1680758"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "118",
+    "title": "Science and Technology Ontology: A Taxonomy of Emerging Topics",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "40520756",
+      "1680758",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "120",
+    "title": "Exploring In Context Learning Capabilities of Foundation Models for Generating Knowledge Graphs from Text",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "2683157",
+      "134199365"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "121",
+    "title": "Semi supervised Construction of Domain specific Knowledge Graphs",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "2689774",
+      "134199365"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "122",
+    "title": "Information Extraction with GPT 3 for Knowledge Base Construction",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "145267753",
+      "2522516"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "123",
+    "title": "Is GPT fit for KGQA? Preliminary results",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "1869895"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "132",
+    "title": "Des donnees tabulaires a RDF : l'extraction de donnees de Google Fusion Tables",
+    "conference": "OJD 2012",
+    "assigned_reviewers": [
+      "1978495",
+      "1763647",
+      "2094211937",
+      "2064474720"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "134",
+    "title": "Evaluation dune architecture de stockage RDF distribuee",
+    "conference": "OJD 2012",
+    "assigned_reviewers": [
+      "2838186",
+      "2064474720"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "135",
+    "title": "Une ontologie du Cinema pour evaluer les applications du Web Semantique",
+    "conference": "OJD 2012",
+    "assigned_reviewers": [
+      "1732198",
+      "2081345434",
+      "2899255",
+      "1718164"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "303",
+    "title": "Sentiment Analysis for Dynamic User Preference Inference in Spoken Dialogue Systems",
+    "conference": "SSA14",
+    "assigned_reviewers": [
+      "3349721",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "307",
+    "title": "Integrating Bibliography Records with Web Resources: The AGRIS Portal",
+    "conference": "SAVE SD 2015",
+    "assigned_reviewers": [
+      "3081683",
+      "1808447",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "308",
+    "title": "Visual based classification of figures from scientific literature",
+    "conference": "SAVE SD 2015",
+    "assigned_reviewers": [
+      "2178139",
+      "1721059",
+      "2382525"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "311",
+    "title": "Annotation des Bulletins de sante du vegetal",
+    "conference": "RISE 2015",
+    "assigned_reviewers": [
+      "38602530",
+      "2008392",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "318",
+    "title": "Key Competences of Computer Science Professionals",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1759225",
+      "1697277",
+      "1726847"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "319",
+    "title": "Evaluation of Static/Dynamic Cache for Similarity Search Engines",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1773883",
+      "143702465",
+      "1726425"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "320",
+    "title": "Data Integration and Analysis in music domain: leveraging Semantic Web and Linked Open Data",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1773883",
+      "1796253",
+      "1697277"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "321",
+    "title": "Knowledge as RDF network in the concept of Semantic Web",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "2641650",
+      "1697277",
+      "1755645"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "322",
+    "title": "Entropy based hierarchization of data structures",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "152642284",
+      "1773883"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "323",
+    "title": "Optimization of Data Location Minimizing Data Transfers in Distributed Wide Column Stores",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "152642284",
+      "143702465"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "324",
+    "title": "Solving the Problem of Selecting Suitable Objective Measures by Clustering Association Rules through the Measures Themselves",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "2601051",
+      "1726425",
+      "1741423"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "325",
+    "title": "Survey On Concern Separation in Service Integration",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "2799443",
+      "144165120",
+      "1773883"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "326",
+    "title": "Technology of encrypted tunnels with practical usage",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1735321",
+      "1726425",
+      "143634280"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "327",
+    "title": "Summarizing Online User Reviews using Bicliques",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "143752702",
+      "1721059",
+      "1726425"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "328",
+    "title": "Application of Multiple Sound Representations in Multipitch Estimation Using Shift invariant Probabilistic Latent Component Analysis",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "152642284",
+      "143702465",
+      "1796253"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "329",
+    "title": "Identification of Navigation Lead Candidates Using Citation and Co Citation Analysis",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "143752702",
+      "1721059",
+      "1755645"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "330",
+    "title": "Multi Resolution Indexing and Retrieval Method of Time Series Using Discrete Wavelet Transform",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1741423",
+      "1719053",
+      "152534501"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "331",
+    "title": "A Study on the Overfitting Problem and Nature Inspired Optimization Methods",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1781993",
+      "1796253"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "332",
+    "title": "Adaptive Sampling and Time Series Classification",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1719053",
+      "152534501",
+      "1755645"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "333",
+    "title": "Building XML Cubes using a NoSQL DWARF Structure",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1735321",
+      "144165120",
+      "1719053"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "334",
+    "title": "Granular ontologies, granularity based querying, granularity theorem",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1735321",
+      "1759225",
+      "1726847"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "335",
+    "title": "Post Processing Association Rules: a Network based Label Propagation Approach",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1755645",
+      "1741423",
+      "2601051"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "336",
+    "title": "Web applications security with specific problem in archiving",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1735321",
+      "2799443",
+      "1726847"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "337",
+    "title": "An analysis of cloud computing utilization in a universitys environment",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "2641650",
+      "2799443",
+      "144165120"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "338",
+    "title": "Optimal Rate Control in Wireless Network on Chip (WiNoC)",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "2641650",
+      "1726425",
+      "1741423"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "339",
+    "title": "Learning in imbalanced data with very little data on minority Category: Cancer Patients",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "2601051",
+      "1721059",
+      "1726425"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "340",
+    "title": "Online Mining of Vehicle in Camera Videos",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "2799443",
+      "1726425",
+      "143634280"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "341",
+    "title": "SSPCO Optimization Algorithm (See See Partridge Chicks Optimization)",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1759225",
+      "143634280"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "342",
+    "title": "Interactions between agents: the Key of Multi Task Reinforcement Learning Improvement for Dynamic Environments",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1759225",
+      "144165120",
+      "143634280"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "343",
+    "title": "Stable feature selection by metaheuristic algorithms",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "2601051",
+      "1796253",
+      "1726425"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "344",
+    "title": "Edited Nearest Neighbor Classifier by Reducing Dataset Size",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "2601051",
+      "1719053",
+      "1726425"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "345",
+    "title": "Networks and Their Traffic in Multiplayer Games",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "2641650",
+      "143702465",
+      "143634280"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "346",
+    "title": "Projection for Nested Word Automata Speeds up XPath Evaluation on XML Streams",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1781993",
+      "1697277",
+      "143634280"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "347",
+    "title": "Graphs enriched by Cubes for OLAP on Bibliographic Networks",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "152642284",
+      "143634280",
+      "152534501"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "348",
+    "title": "Analyzing Temporal Properties in Movie Subtitles to Improve Keyword Extraction",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "1781993",
+      "1726425",
+      "143634280"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "349",
+    "title": "A Theoretical Point of View of Conjunctive Queries With Access Patterns and an Upper Bound on the Number of Accesses",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "2641650",
+      "1781993",
+      "1726847"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "350",
+    "title": "Utilizing Vector Models for Automatic Text Lemmatization",
+    "conference": "SOFSEM 2016",
+    "assigned_reviewers": [
+      "143752702",
+      "1721059",
+      "152534501"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "351",
+    "title": "Extraction des informations dentreprises",
+    "conference": "RISE 2016",
+    "assigned_reviewers": [
+      "1721059",
+      "2008392",
+      "1404441252"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "363",
+    "title": "Semantic Publishing Challenge: Bootstrapping a Value Chain for Scientific Data",
+    "conference": "SAVE SD 2016",
+    "assigned_reviewers": [
+      "1721059",
+      "143772714",
+      "7729327"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "390",
+    "title": "Entity Typing and Linking using SPARQL Patterns and DBpedia",
+    "conference": "OKE2016",
+    "assigned_reviewers": [
+      "3349721",
+      "1721059",
+      "1802726"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "391",
+    "title": "Managing Ceph through oVirt using Cinder",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2052490694",
+      "2492793",
+      "2157510090",
+      "2005814"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "392",
+    "title": "QA4LOV: A Natural Language Interface to Linked Open Vocabulary",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1748977",
+      "1731651",
+      "1711387",
+      "1725656",
+      "1936779"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "393",
+    "title": "Expanding Wikidata's Parenthood Information by 178%, or How To Mine Relation Cardinality Information",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2015586",
+      "143840603"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "394",
+    "title": "Harvesting Organization Linked Data from the Web",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2295816",
+      "2683157",
+      "2144370824",
+      "2052329",
+      "1953113"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "395",
+    "title": "Querying Dynamic Datasources with Continuously Mapped Sensor Data",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2418440",
+      "1575385249",
+      "2766928",
+      "2634786"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "396",
+    "title": "Ranking Feature for Classifier based Instance Matching",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "3234249",
+      "5048318",
+      "2683157",
+      "143886603",
+      "2602987"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "397",
+    "title": "Building Evidence Graph for Clinical Decision Support",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2029677926",
+      "1748453",
+      "2601051",
+      "1575385249"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "398",
+    "title": "Linked Sensor Data Generation using Queryable RML Mappings",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1800811",
+      "2346796",
+      "2456849"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "399",
+    "title": "A RDF based Portal of Biological Phenotype Data produced in Japan",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1798963",
+      "1740880",
+      "143886603",
+      "3305769",
+      "1732240"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "400",
+    "title": "Working process quantification in factory using wearable sensor device and ontology based stream data processing",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2029677926",
+      "2346796",
+      "1756933",
+      "1721059"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "401",
+    "title": "Study on Optimization Methods of Ontology Ranking Results Based on the Ensemble learning",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1748453",
+      "2601051",
+      "46408867",
+      "3223508",
+      "72403475"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "402",
+    "title": "Smart Trip Alternatives for the Curious",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2601051",
+      "2485728",
+      "2370666",
+      "1684267",
+      "144486515"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "403",
+    "title": "Serving Ireland's Geospatial Information as Linked Data",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1887019",
+      "2843316",
+      "47767276"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "404",
+    "title": "Constructing Curriculum Ontology and Dynamic Learning Path Based on Resource Description Framework",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1393699478",
+      "1753013",
+      "3198185",
+      "2680937"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "405",
+    "title": "Scalable Semantic Access to Siemens Static and Streaming Distributed Data",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1746617",
+      "144138457",
+      "1692708",
+      "2370666",
+      "34241570"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "406",
+    "title": "PRONA: A Plugin for Well Designed Approximate Queries in Jena",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1723397",
+      "1682407",
+      "1692708"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "407",
+    "title": "pSPARQL: A Querying Language for Probabilistic RDF (Extended Abstract)",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1798706",
+      "2789097",
+      "80103755",
+      "145369682",
+      "145301017"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "408",
+    "title": "Enabling combined software and data engineering: the ALIGNED suite of ontologies",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2418440",
+      "1756933",
+      "3470632",
+      "2350876"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "409",
+    "title": "PIOTRe: Personal Internet of Things Repository",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1800811",
+      "2945518",
+      "2005814",
+      "152644354"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "410",
+    "title": "Reducing the Network Load of Triple Pattern Fragments by Supporting Bind Joins",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1729599",
+      "1798706",
+      "1682407",
+      "1744651",
+      "3246706"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "411",
+    "title": "Yuzu: Publishing Any Data as Linked Data",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "3164097",
+      "2144370824",
+      "2109087547",
+      "2382525",
+      "3198185"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "412",
+    "title": "LIXR: Quick, succinct conversion of XML to RDF",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "144196238",
+      "1748453",
+      "34606984",
+      "2005670",
+      "1708763"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "413",
+    "title": "Optimizing FOL reducible query answering: understanding performance challenges",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1744651",
+      "50156266",
+      "143634280",
+      "34241570",
+      "153804091"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "414",
+    "title": "Casie: Comparing Annotation Systems for Information Extraction",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2005670",
+      "2015586",
+      "144209306",
+      "2634786",
+      "144486515"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "415",
+    "title": "What if machines could be creative?",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1389854357",
+      "1748977",
+      "2766928",
+      "144486515",
+      "2602987"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "416",
+    "title": "Smart Topic Miner: Supporting Springer Nature Editors with Semantic Web Technologies",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "46408867",
+      "1725656",
+      "1953113",
+      "35078346"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "417",
+    "title": "Human Machine Collaboration over Linked Data",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1887019",
+      "34606984",
+      "2945518",
+      "2370666",
+      "1936779"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "418",
+    "title": "SOMM: Industry Oriented Ontology Management Tool",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2601051",
+      "2492793",
+      "2420171",
+      "1732240"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "419",
+    "title": "Lexicalizing DBpedia with Realization Enabled Ensemble Architecture: RealText lex2 Approach",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "80103755",
+      "1748977",
+      "3162838",
+      "1711387"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "420",
+    "title": "Agriculture Activity Ontology : An ontology for core vocabulary of agriculture activity",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1692708",
+      "1708763",
+      "2109087547",
+      "1721158",
+      "2420171"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "421",
+    "title": "Enriching Answers in Question Answering Systems using Linked Data",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1731651",
+      "144209306",
+      "1975411",
+      "1725656",
+      "35078346"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "422",
+    "title": "Semantic Web Technologies and Big Data Infrastructures: SPARQL Federated Querying of Heterogeneous Big Data Stores",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1723397",
+      "3349721",
+      "1746617",
+      "143634280",
+      "3174114"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "423",
+    "title": "RIKEN MetaDatabase: a database publication platform for RIKENs life science researchers that promotes research collaborations over dierent research area",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1680664",
+      "2324254",
+      "2382525",
+      "3305769",
+      "50156266"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "424",
+    "title": "How to feed Apache HBase with petabytes of RDF data: An extremely scalable RDF store based on Eclipse RDF4J framework and Apache HBase database",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2029677926",
+      "3164097",
+      "2789097",
+      "1682407",
+      "2456849"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "425",
+    "title": "Towards Building Open Knowledge Base From Programming Question Answering Communities",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1389854357",
+      "1748977",
+      "1975411",
+      "1711387",
+      "1657623936"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "426",
+    "title": "Using word2vec to Build a Simple Ontology Learning System",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "3349721",
+      "1387447871",
+      "1389854357",
+      "1731651",
+      "1657623936"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "427",
+    "title": "Discussion of the practical use of LOD on GIS in Japan",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1887019",
+      "2024066",
+      "1848764",
+      "1721059"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "428",
+    "title": "IRSMG: Accelerating Inexact RDF Subgraph Matching on the GPU",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2024066",
+      "3162838",
+      "2157510090",
+      "1686860",
+      "145301017"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "429",
+    "title": "Materializing the editing history of Wikipedia as linked Data in DBpedia",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2109087547",
+      "143840603",
+      "2350876",
+      "2263442"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "430",
+    "title": "FarolApp: Live Linked Data based Crowdsouring on Light Pollution",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2295816",
+      "2024066",
+      "3305769",
+      "1680664",
+      "3174114"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "431",
+    "title": "Apache Spark and Apache Kafka at the rescue of distributed RDF Stream Processing engines",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "3349721",
+      "1738599770",
+      "1932158980",
+      "3198185",
+      "2456849"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "432",
+    "title": "An Ontology based Map Converter for Intelligent Vehicles",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "46408867",
+      "50156266",
+      "1684267",
+      "3246706"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "433",
+    "title": "SOLS: A Semantically Enriched Learning System Using LOD Based Automatic Question Generation",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "145369682",
+      "1756933",
+      "1711387",
+      "1753013",
+      "3246706"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "434",
+    "title": "Semantic Coverage Measures: Analytic Operators for Ontologists",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2456849",
+      "1798963",
+      "1399068269",
+      "34241570"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "435",
+    "title": "MusicWeb: music discovery with open linked semantic metadata",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "40438851",
+      "2144370824",
+      "1953113",
+      "1684267",
+      "152644354"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "436",
+    "title": "A Protege Plugin with Swift Linked Data Miner",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2079911",
+      "50184494",
+      "1753013"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "437",
+    "title": "Proactive Replication of Dynamic Linked Data for Scalable RDF Stream Processing",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "145882060",
+      "145993352",
+      "1692708",
+      "1721158",
+      "153804091"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "438",
+    "title": "Parallel sort merge join reasoning",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1798706",
+      "1686860",
+      "145301017",
+      "72403475",
+      "2553511"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "439",
+    "title": "USE RB : Benchmarking how reasoners work in harmony with modern hardware",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "145882060",
+      "2324254",
+      "145301017",
+      "2061636709"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "440",
+    "title": "OntoCASE4G OWL: Towards a modeling software tool for G OWL a visual syntax for RDF/RDFS/OWL2",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "50184494",
+      "1753013",
+      "1732240",
+      "1703432"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "441",
+    "title": "Enhancing Rule based OWL Reasoning on Spark",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1686860",
+      "37976959",
+      "2634786",
+      "1805399"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "442",
+    "title": "An On Line Learning to Query System",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1887019",
+      "2326420",
+      "2324254"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "443",
+    "title": "Rule Based Reasoning using State Space Search",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2789097",
+      "144138457",
+      "145882060",
+      "1848764",
+      "1399068269"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "444",
+    "title": "Generating Conference Linked Open Data in One Click",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "144196238",
+      "2485728",
+      "2945518",
+      "152573671",
+      "2350876"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "445",
+    "title": "Ontologies Guidelines for Best Practice and a Process to Evaluate Existing Ontologies Mapping Tools and Algorithms",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2418440",
+      "3305769",
+      "3470632",
+      "1399068269"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "446",
+    "title": "A Repository of Taxonomic Relations from the Web",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "3081683",
+      "40438851",
+      "2052329",
+      "2382525"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "447",
+    "title": "Using Semantic Web Technologies for Explaining and Predicting Abnormal Expense",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2079911",
+      "1748453",
+      "1657623936",
+      "47767276",
+      "2602987"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "448",
+    "title": "Interdisciplinary Classification of Audio Effects in the Audio Effect Ontology",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2346796",
+      "2326420",
+      "145993352",
+      "1657623936"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "449",
+    "title": "Access Logs Don't Lie: Towards Traffic Analytics for Linked Data Publishers",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "3081683",
+      "2144370824",
+      "2015586",
+      "50475575",
+      "3223508"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "450",
+    "title": "SQuaRE: A Visual Tool For Creating R2RML Mappings",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "70053552",
+      "34606984",
+      "39596715",
+      "1932158980",
+      "1703432"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "451",
+    "title": "The Public Sector DNA on the web: semantically marking up government portals.",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1798706",
+      "46408867",
+      "1575385249",
+      "1721158"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "452",
+    "title": "Structure guiding Modular Reasoning for Expressive Ontologies",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2157510090",
+      "1686860",
+      "1721158"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "453",
+    "title": "Who Does What: A knowledge base of people's occupations and job activities",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "144209306",
+      "2627116",
+      "2263442"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "454",
+    "title": "On the Role of Semantics for Detecting pro ISIS Stances on Social Media",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1387447871",
+      "1389854357",
+      "40438851",
+      "47767276"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "455",
+    "title": "Gize: A Time Warp in the Web of Data",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1729599",
+      "2157510090",
+      "143634280",
+      "72403475"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "456",
+    "title": "SPARQLGX in Action: Efficient Distributed Evaluation of SPARQL with Apache Spark",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2029677926",
+      "1746617",
+      "1682407",
+      "39596715",
+      "3353806"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "457",
+    "title": "SWoTSuite: A Toolkit for Prototyping Cross domain Semantic Web of Things Applications",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1738599770",
+      "2109087547",
+      "1848764",
+      "2492793"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "458",
+    "title": "A Survey on Challenges in Web Markup Data for Entity Retrieval",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2079911",
+      "1729599",
+      "66911936",
+      "34606984",
+      "5048318"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "459",
+    "title": "Local Council Decisions as Linked Data: a proof of concept",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1746617",
+      "1740880",
+      "2372049",
+      "1393699478",
+      "1575385249"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "460",
+    "title": "EXISTStential Aspects of SPARQL",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1798963",
+      "1802820",
+      "1805399"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "461",
+    "title": "KeywDB: A System for Keyword Driven Ontology to RDB Mapping Construction",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "70053552",
+      "3470632",
+      "1802820",
+      "1805399",
+      "1936779"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "462",
+    "title": "How Do Researchers Annotate Their Work? A Study on Semantic Annotations in RASH Papers",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "66911936",
+      "2485728",
+      "143886603",
+      "50475575"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "463",
+    "title": "SemFacet: Faceted Search over Ontology Enhanced Knowledge Graphs",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1729599",
+      "72403475",
+      "2634786",
+      "2680937"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "464",
+    "title": "GovLOD: Towards to a Linked Open Data Portal",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1798706",
+      "70053552",
+      "2485728",
+      "3353806",
+      "3223508"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "465",
+    "title": "Incorporating API data into SPARQL query answers",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1723397",
+      "80103755",
+      "1932158980",
+      "1731651",
+      "50475575"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "466",
+    "title": "SPORTAL: Searching for Public SPARQL Endpoints",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1723397",
+      "1682407",
+      "3081683",
+      "2372049",
+      "2350876"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "467",
+    "title": "Monitoring, Discussing and Publishing Energy Consumption Data using EnergyUse",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2372049",
+      "2843316",
+      "152573671",
+      "1720331",
+      "2263442"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "468",
+    "title": "Type Prediction for Entities in DBpedia by Aggregating Multilingual Resources",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1387447871",
+      "2789097",
+      "3234249",
+      "2015586",
+      "2627116"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "469",
+    "title": "Semantic Audit Application",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1740880",
+      "2420171",
+      "1720331"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "470",
+    "title": "An Evaluation of VIG with the BSBM Benchmark",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "3349721",
+      "70053552",
+      "145301017",
+      "1721059",
+      "1802820"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "471",
+    "title": "OWLAx: A Protege Plugin to Support Ontology Axiomatization through Diagramming",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "144138457",
+      "1802820",
+      "37976959"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "472",
+    "title": "An interactive visualisation for RDF data",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "3164097",
+      "3162838",
+      "5048318",
+      "2680937",
+      "1703432"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "473",
+    "title": "A Unified Interface for Optimizing Continuous Query in Heterogeneous RDF Stream Processing Systems",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "145882060",
+      "1738599770",
+      "2326420",
+      "153804091",
+      "2553511"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "474",
+    "title": "Jailbreaking your reference lists: the OpenCitations project strikes again",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "3164097",
+      "33884920",
+      "143886603",
+      "3223508",
+      "2627116"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "475",
+    "title": "A Framework Suggestion for Interpretation of Multimedia with Semantic Search: Automatic Label Generation on Multimedia Data",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "40438851",
+      "1738599770",
+      "2843316",
+      "152573671",
+      "153804091"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "476",
+    "title": "Visualizing Semantic Table Annotations with TableMiner+",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2079911",
+      "3234249",
+      "39596715",
+      "1932158980"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "477",
+    "title": "The Causes of Anomaly in Dynamic Restaurant Rating",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "3164097",
+      "1680664",
+      "152573671",
+      "2602987"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "478",
+    "title": "Cross Language Record Linkage using Word Embedding driven Metadata Similarity Measurement",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1387447871",
+      "3234249",
+      "3162838",
+      "3470632",
+      "1936779"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "479",
+    "title": "Representing RDF Stream Processing Queries in RSP SPIN",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "80103755",
+      "1740880",
+      "1721059",
+      "1720331"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "480",
+    "title": "Modeling OWL with Rules: The ROWL Protege Plugin",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "144138457",
+      "1802820"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "481",
+    "title": "Development of an Ontology for an Integrated Image Analysis Platform to enable Global Sharing of Microscopy Imaging Data",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2843316",
+      "1772443",
+      "50156266"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "482",
+    "title": "Constructing Semantic Networks of Development Activities from Weekly Reports",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2346796",
+      "145369682",
+      "2683157",
+      "1772443",
+      "1720331"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "483",
+    "title": "Data Acquisition by Traversing Class Class Relationships over the Linked Open Data",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2372049",
+      "2683157",
+      "1680664",
+      "2680937",
+      "1798963"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "484",
+    "title": "Harnessing Crowds and Experts for Semantic Annotation of the Qur'an",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2295816",
+      "1744651",
+      "2492793",
+      "50475575"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "485",
+    "title": "DBpedia Mappings Quality Assessment",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2683157",
+      "2005670",
+      "3353806",
+      "33884920"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "486",
+    "title": "Towards an Interface for User Friendly Linked Data Generation Administration",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2485728",
+      "1932158980",
+      "2382525"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "487",
+    "title": "User Friendly and Scalable Platform for the Design of Intelligent IoT Services: a Smart Office Use Case",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2418440",
+      "2945518"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "488",
+    "title": "Personalized robot interactions to intercept behavioral disturbances of people with dementia",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1975411",
+      "3198185",
+      "2766928",
+      "3174114",
+      "152644354"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "489",
+    "title": "Lowering knowledge : Making constrained devices semantically interoperable",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1800811",
+      "1399068269",
+      "1772443",
+      "2061636709",
+      "2553511"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "490",
+    "title": "refer: a Linked Data based Text Annotation and Recommender System for Wordpress",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2144370824",
+      "1725656",
+      "1708763",
+      "143840603",
+      "152644354"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "491",
+    "title": "XB: A Large scale Korean Knowledge Base for Question Answering Systems",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1887019",
+      "1975411",
+      "2109087547",
+      "2370666",
+      "35078346"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "492",
+    "title": "Data Integration for the Media Value Chain",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2052490694",
+      "3470632",
+      "2052329",
+      "2553511",
+      "1684267"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "493",
+    "title": "Linked Corporations Data in Japan",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2052490694",
+      "1772443",
+      "3223508",
+      "3246706"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "494",
+    "title": "Implementing Customer Reception Service in Robot Cafe using Stream Reasoning and ROS based on PRINTEPS",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2052490694",
+      "1848764",
+      "50184494",
+      "1393699478",
+      "3174114"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "495",
+    "title": "DBpedia Entity Type Inference Using Category",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "144209306",
+      "35078346",
+      "144486515",
+      "2627116"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "496",
+    "title": "The ESSOT System Goes Wild: an Easy Way For Translating Ontologies",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2295816",
+      "1756933",
+      "2061636709",
+      "1732240"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "497",
+    "title": "Detecting Contradictions in Component Properties Across Engineering Departments",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "145369682",
+      "145993352",
+      "2324254",
+      "2061636709"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "498",
+    "title": "Discovering and Using Functions via Content Negotiation",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2843316",
+      "3353806",
+      "1703432",
+      "2420171"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "499",
+    "title": "OPEN SESAME! European Statistics explored via semantic alignment onto Wikipedia",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2005670",
+      "66911936",
+      "144196238",
+      "3081683",
+      "143840603"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "500",
+    "title": "Semantic Web Technologies for improving remote visits of museums, using a mobile robot",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "144196238",
+      "1575385249",
+      "1393699478",
+      "2052329",
+      "2766928"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "501",
+    "title": "VLog: A Column Oriented Datalog System for Large Knowledge Graphs",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "37976959",
+      "5048318",
+      "1953113",
+      "72403475",
+      "34241570"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "502",
+    "title": "Exploring Linked Classical Music Catalogs with OVERTURE",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "2326420",
+      "145993352",
+      "47767276",
+      "3174114",
+      "2263442"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "503",
+    "title": "SWISH: An Integrated Semantic Web Notebook",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1800811",
+      "39596715",
+      "1708763",
+      "2945518",
+      "1805399"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "504",
+    "title": "Ontop spatial for Geospatial Data Integration using GeoSPARQL to SQL Translation",
+    "conference": "ISWC2016P&D",
+    "assigned_reviewers": [
+      "1744651",
+      "70053552",
+      "2024066",
+      "143634280",
+      "37976959"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "887",
+    "title": "Terminological Cluster Trees for Disjointness Axiom Discovery",
+    "conference": "ESWC 2017",
+    "assigned_reviewers": [
+      "144138457",
+      "1721059",
+      "1400731651"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1023",
+    "title": "Transferring Sentiment Knowledge via Lexicon Alignment Learning in Cross lingual Sentiment Analysis",
+    "conference": "ESWC 2017",
+    "assigned_reviewers": [
+      "1927081",
+      "1721059",
+      "144460791"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1037",
+    "title": "Ontology-based photogrammetric survey in underwater archaeology",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "3018242",
+      "1748257",
+      "2370666",
+      "2766928",
+      "2852530"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1038",
+    "title": "AMR2FRED, a tool for translating AMR to Motif-based Linguistic Knowledge Graphs",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "3018242",
+      "1748257",
+      "2370666",
+      "2766928",
+      "2852530",
+      "46415512"
+    ],
+    "num_reviewers": 6
+  },
+  {
+    "paper_id": "1039",
+    "title": "Trill: A generic Front End for QA systems",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1738599770",
+      "80103755",
+      "3353806",
+      "145369682",
+      "145301017"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1040",
+    "title": "KBox : Distributing ready to query RDF Knowledge Graphs",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1738599770",
+      "80103755",
+      "3353806",
+      "145369682",
+      "145301017"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1041",
+    "title": "Conversion of Physical Quantity based on RDF Inference",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "3229889",
+      "143840603",
+      "153804091",
+      "2346796"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1042",
+    "title": "Verbalising OWL ontologies in isiZulu with Python",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "3229889",
+      "143840603",
+      "153804091",
+      "2346796"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1043",
+    "title": "Assessing the Completeness of Entities in Knowledge Bases",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1746617",
+      "5048318",
+      "34241570",
+      "37976959",
+      "1684267"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1044",
+    "title": "Towards Open Data Mashups for Data Journalism",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1746617",
+      "1744651",
+      "34241570",
+      "37976959",
+      "1684267"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1045",
+    "title": "Linked Data Processing Provenance: Towards Transparent & Reusable Linked Data Integration",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "46415512",
+      "1729599",
+      "2052329",
+      "1708763",
+      "1740880",
+      "2444947"
+    ],
+    "num_reviewers": 6
+  },
+  {
+    "paper_id": "1046",
+    "title": "ComSem: Digitization and Semantic Annotation of Comic Books",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "46415512",
+      "1729599",
+      "2052329",
+      "1708763",
+      "1740880",
+      "2444947"
+    ],
+    "num_reviewers": 6
+  },
+  {
+    "paper_id": "1047",
+    "title": "Unsupervised Open Relation Extraction",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2079911",
+      "1798963",
+      "1721059",
+      "1686860",
+      "2077593657"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1048",
+    "title": "Live Storage and Querying of Versioned Datasets on the Web",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2079911",
+      "1798963",
+      "1721059",
+      "1686860",
+      "2077593657"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1049",
+    "title": "RDF Store: Towards Extending the Semantic Web to Embedded Devices",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2858605",
+      "3470632",
+      "3106437",
+      "1953113",
+      "2945518"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1050",
+    "title": "Ranking Influencers on Social Collaboration Platforms",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2858605",
+      "3106437",
+      "3470632",
+      "1953113",
+      "2945518"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1051",
+    "title": "Diversity aware Entity Exploration on RDF Data",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1723397",
+      "1753013",
+      "3162838",
+      "3174114",
+      "50184494"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1052",
+    "title": "Introducing Feedback in Qanary: How Users can interact with QA systems",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1723397",
+      "1753013",
+      "3162838",
+      "3174114",
+      "50184494"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1053",
+    "title": "Prototypical Implementation of a Community Knowledge Graph",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2005670",
+      "1756933",
+      "46694638",
+      "1801255",
+      "33884920"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1054",
+    "title": "Fine Grained Sentiment Analysis on Financial Microblogs and News Headlines",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2005670",
+      "1756933",
+      "46694638",
+      "1801255",
+      "33884920"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1055",
+    "title": "Juma: an Editor that Uses a Block Metaphor to Facilitate the Creation and Editing of R2RML Mappings",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1731651",
+      "2553511",
+      "2109087547",
+      "47767276",
+      "1657623936",
+      "2115114"
+    ],
+    "num_reviewers": 6
+  },
+  {
+    "paper_id": "1056",
+    "title": "Automated UML Based Ontology Generation in in OSLO2",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1731651",
+      "2109087547",
+      "1657623936",
+      "2553511",
+      "47767276",
+      "2115114"
+    ],
+    "num_reviewers": 6
+  },
+  {
+    "paper_id": "1057",
+    "title": "Honey bee versus Apis mellifera: A Semantic Search for Biological Data",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2418440",
+      "1399068269",
+      "152573671",
+      "2157510090",
+      "143634280"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1058",
+    "title": "Semantically enabled Smart Analytical Framework for Cancer Patients",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2418440",
+      "1399068269",
+      "152573671",
+      "143634280",
+      "2157510090"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1059",
+    "title": "EvoRDF: A framework for exploring ontology evolution",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2102859",
+      "1802820",
+      "2324254",
+      "5048318",
+      "2263442",
+      "2029677926"
+    ],
+    "num_reviewers": 6
+  },
+  {
+    "paper_id": "1060",
+    "title": "Rendering OWL in Description Logic Syntax",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2102859",
+      "2324254",
+      "5048318",
+      "2444947",
+      "2263442"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1061",
+    "title": "MappingPedia: A Collaborative Environment for R2RML Mappings",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "3081683",
+      "1802820",
+      "35078346",
+      "1936779",
+      "144736530",
+      "2005814"
+    ],
+    "num_reviewers": 6
+  },
+  {
+    "paper_id": "1062",
+    "title": "Enabling Cascading Stream Reasoning with Streaming MASSIF",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "3081683",
+      "1936779",
+      "2105623951",
+      "35078346",
+      "2005814"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1063",
+    "title": "REPRODUCE ME: Ontology based Data Access for Reproducibility of Microscopy Experiments",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1732265",
+      "1393699478",
+      "2105623951",
+      "50156266"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1064",
+    "title": "Leveraging Cognitive Computing for Multi Class Classification of E Learning Videos",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2485728",
+      "1732265",
+      "8315951",
+      "1393699478",
+      "50156266"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1065",
+    "title": "TDDonto2: A Test Driven Development Plugin for arbitrary TBox and ABox axioms",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2485728",
+      "8315951",
+      "1805399",
+      "3298045",
+      "144486515"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1066",
+    "title": "Feature Analysis for Supervised Entity Linking",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "143886603",
+      "1805399",
+      "3298045",
+      "1692044",
+      "144486515",
+      "2029677926"
+    ],
+    "num_reviewers": 6
+  },
+  {
+    "paper_id": "1067",
+    "title": "Ladda: SPARQL Queries in the Fog of Browsers",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "143886603",
+      "144209306",
+      "3223508",
+      "1575385249",
+      "1692044"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1068",
+    "title": "Execution of Workflows on Read/Write Linked Data for the Internet of Things",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "144209306",
+      "2372049",
+      "3223508",
+      "1575385249"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1069",
+    "title": "Talking Open Data",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "46408867",
+      "2372049",
+      "1772443",
+      "144138457"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1070",
+    "title": "YAM++ online: a Multi task Platform for Ontology and Thesaurus Matching",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "46408867",
+      "1772443",
+      "144138457",
+      "1703432"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1071",
+    "title": "SPARQL2Git: Transparent SPARQL and Linked Data API Curation via Git",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1732240",
+      "1692708",
+      "1703432",
+      "3198185"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1072",
+    "title": "Visual Question Answering Over Knowledge Graphs: A Diagrammatic Approach",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1727566",
+      "144920205",
+      "1732240",
+      "1692708",
+      "3198185"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1073",
+    "title": "The datAcron Ontology for Semantic Trajectories",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "144920205",
+      "144835727",
+      "1727566"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1074",
+    "title": "Eaglet a Named Entity Recognition and Entity Linking Gold Standard Checking Tool",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1727566",
+      "144920205",
+      "144835727",
+      "1692708"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1075",
+    "title": "Dynamic Semantic Music Notation: Using Linked Data to Enhance Music Performance",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "144835727",
+      "143886603",
+      "144138457",
+      "50156266"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1076",
+    "title": "Building a Knowledge Base from Linked Data: the WeME Example",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "46415512",
+      "1802820",
+      "3470632",
+      "2157510090",
+      "144736530",
+      "1801255"
+    ],
+    "num_reviewers": 6
+  },
+  {
+    "paper_id": "1077",
+    "title": "Framework for Live synchronization of RDF Views of Relational Data",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "3018242",
+      "1748257",
+      "2370666"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1078",
+    "title": "Plan Enumeration for SPARQL Property Paths",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "3229889",
+      "2852530",
+      "143840603",
+      "153804091",
+      "2346796"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1079",
+    "title": "Towards Learning Commonalities in SPARQL",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1729599",
+      "2052329",
+      "1708763",
+      "1740880",
+      "3106437",
+      "144736530"
+    ],
+    "num_reviewers": 6
+  },
+  {
+    "paper_id": "1080",
+    "title": "An exploration of Wikidata and Wikipedia commonalities by looking at their references",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2858605",
+      "1756933",
+      "2945518",
+      "1953113"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1081",
+    "title": "MobileWave: Accessing RDF Streams On Smartphones",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2005670",
+      "143634280",
+      "46694638",
+      "1399068269",
+      "33884920"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1082",
+    "title": "Exploring Data Quality of Wikidata Through View and Edit Information",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2418440",
+      "1732265",
+      "152573671",
+      "1393699478",
+      "1692044"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1083",
+    "title": "JedAI: The Force behind Entity Resolution",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "46408867",
+      "144209306",
+      "8315951",
+      "1772443"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1084",
+    "title": "Context Aware and Self Learning Dynamic Transport Scheduling in Hospitals",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "3081683",
+      "35078346",
+      "2485728",
+      "1936779",
+      "2005814"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1085",
+    "title": "RML and FnO: Shaping DBpedia Declaratively",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2372049",
+      "1732240",
+      "3223508",
+      "1575385249",
+      "3198185"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1086",
+    "title": "Building Soccer Matches Timelines from Twitter",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1744651",
+      "1805399",
+      "1721059",
+      "47767276",
+      "2105623951",
+      "50184494"
+    ],
+    "num_reviewers": 6
+  },
+  {
+    "paper_id": "1087",
+    "title": "Instantly Serving Triple Pattern Fragments over Tabular and Tree structured Datasources with RML",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1738599770",
+      "34241570",
+      "3353806",
+      "145369682",
+      "145301017"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1088",
+    "title": "DrIveSCOVER: A tourism recommender based on external driving factors",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "1746617",
+      "80103755",
+      "1744651",
+      "37976959",
+      "1686860"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1089",
+    "title": "Improving Outlier Detection and Classication through Semantic Web Technologies",
+    "conference": "ESWC2017PD",
+    "assigned_reviewers": [
+      "2079911",
+      "1798963",
+      "3174114",
+      "1684267",
+      "2077593657"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1160",
+    "title": "A propos des territoires dans les corpus scientifiques",
+    "conference": "Emc Sci 2017",
+    "assigned_reviewers": [
+      "1721059"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1161",
+    "title": "Unsupervised relation extraction from scientific texts using self organizing maps",
+    "conference": "Emc Sci 2017",
+    "assigned_reviewers": [
+      "2065279705"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1162",
+    "title": "Part of Speech Tag Sequences to Filter Candidates for Keyphrase Extraction from Scientific Publications",
+    "conference": "Emc Sci 2017",
+    "assigned_reviewers": [
+      "3349721"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1333",
+    "title": "Ameliorer la qualite dun thesaurus a laide de requetes SPARQL",
+    "conference": "RISE 2017",
+    "assigned_reviewers": [
+      "2008392",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1337",
+    "title": "Find Problems before They Find You with AnnotatorPro's Monitoring Functionalities",
+    "conference": "CLiC it 2017",
+    "assigned_reviewers": [
+      "3349721",
+      "1721059",
+      "1763416"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1347",
+    "title": "Une alternative a la distinction continuant vs occurrent",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "1918610",
+      "49963670",
+      "2076987564",
+      "2762082"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1348",
+    "title": "Focaliser lextraction depisodes sequentiels a partir de traces par le contexte.",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "1735198",
+      "2075146591"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1349",
+    "title": "Etude de levolution du modele de lutilisateur des systemes de construction collaborative dontologies",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "49757428",
+      "2762082"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1350",
+    "title": "Modele du contexte de collaboration: pour qui, pourquoi, comment",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "117790463",
+      "143621680",
+      "1728054"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1351",
+    "title": "Vers une modelisation des taches pour lassistance a la navigation et la re conception de sites Web",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "117790463",
+      "1797997",
+      "143789213",
+      "1792960"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1352",
+    "title": "D'un modele statistique a un modele de connaissance : retour d'experience",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "1728054",
+      "2594085",
+      "2066252198",
+      "49963670"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1353",
+    "title": "Construction d'ontologies pour le domaine du sourcing",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "2315703"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1354",
+    "title": "oogo : ontologie des outils utiles a la gestion dontologies",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "3020650",
+      "1393699478",
+      "2899255",
+      "1753013"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1355",
+    "title": "Jeu de donnees SemBib: representation semantique des donnees bibliographiques de Telecom ParisTech",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "1791253",
+      "1753013",
+      "1718164",
+      "1701529"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1356",
+    "title": "Representation des connaissances dans un Langage Visuel Type : une premiere approche",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "38602530",
+      "1753013"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1357",
+    "title": "Une approche heuristique distribuee par elagage semantique pour la fouille des regles dassociation dans les donnees massives",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "39336831",
+      "3232546",
+      "144647982",
+      "1699343"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1358",
+    "title": "L'analyse des sentiments dans les textes arabes : la contribution par l'apprentissage ensembliste",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "144890655",
+      "2067207106"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1359",
+    "title": "Annotation semantique pour une interrogation experte des Bulletins de Sante du Vegetal",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "2345668",
+      "3232546"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1360",
+    "title": "#AIDS Analyse Information Dangers Sexualite : caracteriser les discours a propos du VIH dans les medias sociaux",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "1721059",
+      "39336831",
+      "51426645"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1361",
+    "title": "Ontological requirement specification for smart irrigation system: a SOSA/SSN and SAREF comparison",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "2083404694",
+      "32738587",
+      "1721059",
+      "143789213"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1362",
+    "title": "Modelisation de connaissances metier pour la classification de pieces de bois.",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "71615704",
+      "105075473",
+      "143621680",
+      "1708081"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1363",
+    "title": "Exploration par apprentissage de discussions de personnes en detresse psychologique",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "2066252198",
+      "2594085",
+      "2091789013"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1364",
+    "title": "Une ontologie pour la formalisation et la visualisation des connaissances scientifiques",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "2315703"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1365",
+    "title": "Predire l'intensite de contradiction dans les commentaires : faible, forte ou tres forte ?",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "2091789013",
+      "1684267"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1366",
+    "title": "Etude dune approche de Retour dExperience pour la decouverte denseignements generiques dans le domaine humanitaire",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "71615704",
+      "71102575",
+      "51426645"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1367",
+    "title": "De l'interet des ontologies modulaires. Application a la modelisation de la prise en charge de la SLA.",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "47033143",
+      "38602530",
+      "2083062027",
+      "1701529"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1369",
+    "title": "Ameliorer la recommandation des ressources dans l'apprentissage collaboratif en ligne",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "32738587",
+      "1797997",
+      "1684267"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1370",
+    "title": "Integration d'ontologies medicales : ameloriation par association des maladies humaines a leurs plus pertinents signes carateristiques",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "2064474720",
+      "1753013",
+      "145201295"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1371",
+    "title": "Projet VISATM : la connexion OpenMinTeD AgroPortal, un exemple de service au Text et Data Mining pour les chercheurs francais",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "2094211937",
+      "2899255",
+      "145201295",
+      "2067207106"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1372",
+    "title": "Vers une recommandation personnalisee de ressources pour lapprentissage en ligne",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "49757428",
+      "1393699478",
+      "1682119"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1373",
+    "title": "Recommandation par filtrage collaboratif : ontologie et algorithme d'arbre de decision pour l'apprentissage en ligne",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "47033143",
+      "2067207106",
+      "1682119",
+      "144474383"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1374",
+    "title": "Stockage des donnees RDF dans les bases de donnees NoSQL",
+    "conference": "IC 2018",
+    "assigned_reviewers": [
+      "2064474720",
+      "2081345434",
+      "1708081"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1383",
+    "title": "EVENTS: A Historical Dataset of Top Prestigious Events in Five Computer Science Communities",
+    "conference": "WWW2018Satellites",
+    "assigned_reviewers": [
+      "2043406",
+      "1721059",
+      "2178139",
+      "1737427"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1409",
+    "title": "The knowledge increase estimation framework for integration of ontology instances' relations",
+    "conference": "ESWC2018",
+    "assigned_reviewers": [
+      "2858605",
+      "1721059",
+      "5048318"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1453",
+    "title": "Modeling and Reasoning over Data Licenses",
+    "conference": "ESWC2018",
+    "assigned_reviewers": [
+      "1746617",
+      "37976959",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1466",
+    "title": "Annotation Model in E health domain: patient record study",
+    "conference": "AICCSA 2018",
+    "assigned_reviewers": [
+      "1689640",
+      "39616847",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1470",
+    "title": "A semantic Web architecture for competency based lifelong learning support systems",
+    "conference": "AICCSA 2018",
+    "assigned_reviewers": [
+      "1974739",
+      "2038894",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1475",
+    "title": "Spanish Corpus of Tweets for Marketing",
+    "conference": "EMSASW2018",
+    "assigned_reviewers": [
+      "145921076",
+      "1721059",
+      "2346796"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1476",
+    "title": "Supervised Topic Based Message Polarity Classification using Cognitive Computing",
+    "conference": "EMSASW2018",
+    "assigned_reviewers": [
+      "145921076",
+      "1721059",
+      "2346796"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1477",
+    "title": "On Finding the Relevant User Reviews for Advancing Conversational Faceted Search",
+    "conference": "EMSASW2018",
+    "assigned_reviewers": [
+      "2346796",
+      "3349721",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1478",
+    "title": "What does it mean to be a Wutburger? A First Exploration.",
+    "conference": "EMSASW2018",
+    "assigned_reviewers": [
+      "4641443",
+      "33973438"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1479",
+    "title": "A Dataset for Detecting Irony in Hindi English Code Mixed Social Media Text",
+    "conference": "EMSASW2018",
+    "assigned_reviewers": [
+      "1401910638",
+      "1699343",
+      "33973438"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1480",
+    "title": "In Search for Lost Emotions: Deep Learning for Opinion Taxonomy Induction",
+    "conference": "EMSASW2018",
+    "assigned_reviewers": [
+      "39876094",
+      "1748453",
+      "3349721"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1481",
+    "title": "Detecting Truthful and Useful Consumer Reviews for Products using Opinion Mining",
+    "conference": "EMSASW2018",
+    "assigned_reviewers": [
+      "3349721",
+      "39876094",
+      "1748453"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1489",
+    "title": "Vandalism on Collaborative Web Communities: An Exploration of Editorial Behaviour in Wikipedia",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "1775538",
+      "1402398693",
+      "143762153"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1490",
+    "title": "Applying Subsequence Matching to Collaborative Filtering (extended abstract)",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "144581915",
+      "1737406"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1491",
+    "title": "Cost effective construction of Information Retrieval test collections",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "1738219",
+      "143752702"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1493",
+    "title": "Barriers for the access to knowledge models in Linked Data cultural heritage collections.",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "1730216",
+      "3300163",
+      "2072957924"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1494",
+    "title": "Query Expansion as a Matrix Factorization Problem",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "1730828",
+      "144416720",
+      "2912921"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1495",
+    "title": "Coarse grained Semantic Characterization of Large Knowledge Resources",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "1898621",
+      "3300163"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1496",
+    "title": "Term Association Measures for Memory based Recommender Systems",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "2193550527",
+      "1711832"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1497",
+    "title": "Use of Wikipedia categories on information retrieval research: a brief review",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "103862335",
+      "2065866976"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1498",
+    "title": "Building Python Based Topologies for Massive Processing of Social Media Data in Real Time",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "152534501"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1499",
+    "title": "Tendencias en la creacion de sitios web en Espana y su permanencia en servicio activo",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "146627338",
+      "1732997",
+      "35570106"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1500",
+    "title": "Busqueda de expertos en el contexto academico basada en recomendacion por contenido",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "3257814"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1501",
+    "title": "About BIRDS project (Bioinformatics and Information Retrieval Data Structures Analysis and Design)",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "3257814"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1502",
+    "title": "New approaches for evaluation: correctness and freshness (extended abstract)",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "40609577",
+      "145747881",
+      "152534501"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1503",
+    "title": "Recommending Contacts in Social Networks Using Information Retrieval Models",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "40609577",
+      "145747881",
+      "2193550527"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1504",
+    "title": "Towards a Structured Representation of Results in an Information Retrieval System for Public Examination Calls",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "144416720"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1505",
+    "title": "Towards the Development of a Tool to Keep Track of Interesting Information in a Sea of Digital Documents",
+    "conference": "CERI 2018",
+    "assigned_reviewers": [
+      "2457826"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1506",
+    "title": "Search versus Decision: The Opacity of Backdoors and Backbones Under a Weak Assumption",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "145483430",
+      "2317777",
+      "107735799"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1507",
+    "title": "A Hierarchy of Polynomial Kernels",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1719053",
+      "1728566",
+      "1685583"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1508",
+    "title": "Minimum Reload Cost Graph Factors",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1685849",
+      "1730580",
+      "1388397981"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1509",
+    "title": "The Web Computer Architecture",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1793096",
+      "1748483"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1510",
+    "title": "Lackadaisical quantum walks with multiple marked vertices",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1969092",
+      "1795049",
+      "1699072"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1511",
+    "title": "On an equivalence relation on the regular languages class and its properties",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1739453",
+      "1739139",
+      "107735799"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1512",
+    "title": "Phase Transition in Matched Formulas and a Heuristic for Biclique Satisfiability",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1748108",
+      "40081948",
+      "1678807"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1513",
+    "title": "Two Head Finite State Acceptors with Translucent Letters",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1969092",
+      "1739453"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1514",
+    "title": "Novel Texture Descriptor Family for Face Recognition",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "145185003",
+      "1795049",
+      "1726425",
+      "145185003"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1515",
+    "title": "Patrolling on Dynamic Ring Networks",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1746011",
+      "1751931",
+      "1750009"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1516",
+    "title": "Algorithms and complexity results for the capacitated vertex cover problem",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1719053",
+      "2355288",
+      "1388397981"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1517",
+    "title": "Minimizing the Cost of Team Exploration",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1746011",
+      "1738179",
+      "1750009"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1518",
+    "title": "Efficient Computation of Sets Partitions with a Given Size",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1748108",
+      "1750351",
+      "1748483"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1519",
+    "title": "Lean formalization of finite grids",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1753080",
+      "1795049",
+      "2082947"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1520",
+    "title": "No Endmarker Theorems for Various One Way Pushdown Automata",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1739453",
+      "2192461",
+      "145866845"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1521",
+    "title": "Simple Relationships among Limited Finite Automata of Various Types",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1739139",
+      "1969092",
+      "2192461"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1522",
+    "title": "On the complexity of color avoiding site and bond percolation",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "2317777",
+      "1678807",
+      "2982010"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1523",
+    "title": "On the Size of Logical Automata",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1739139",
+      "2082947",
+      "2192461"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1524",
+    "title": "On Matrix Ins Del Systems of Small Sum Norm",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "49609180",
+      "2982010"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1525",
+    "title": "Online Leasing Algorithms for Connected Dominating Set and Set Cover",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1738179",
+      "1738179",
+      "145483430"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1526",
+    "title": "The Design of a Sample Database for the Creation of Specialized Dictionaries of the Slovak Language",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "144165120",
+      "1726847",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1527",
+    "title": "Gathering of Robots in a Grid with Mobile Faults",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1746011",
+      "1750009",
+      "1738179"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1528",
+    "title": "On Infinite Prefix Normal Words",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1695779",
+      "1721059",
+      "1685583"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1529",
+    "title": "On the expressive power of GF(2) grammars",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1753080",
+      "1739139",
+      "2082947"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1530",
+    "title": "Stable divisorial gonality is in NP",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "2355288",
+      "2317777",
+      "1685849"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1531",
+    "title": "A fix point characterization of Herbrand equivalence of expressions in data flow frameworks",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1720600",
+      "152729774",
+      "47071275"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1532",
+    "title": "Bracketed automata and a characterization of context free languages",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "40081948",
+      "2192461",
+      "47071275"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1533",
+    "title": "Determining Robustness of Multiwinner Rules on Restricted Domains",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1795049",
+      "1685849",
+      "1751931"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1534",
+    "title": "On the Complexity of Optimal Matching Reconfiguration",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1751931",
+      "1728566",
+      "48206205"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1535",
+    "title": "Sorting Networks On Restricted Topologies]{Sorting Networks On Restricted Topologies",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1685849",
+      "1750009"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1536",
+    "title": "A 9 approximation algorithm for L(2,1) labeling of unit disk graphs.",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1695779",
+      "1388397981",
+      "48206205"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1537",
+    "title": "A Derivative based Membership Algorithm for Extended Regular Expressions",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "107735799"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1538",
+    "title": "Learning Restricted Regular Expressions with Interleaving",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1765008",
+      "1726425"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1539",
+    "title": "Patterns of Size Four with Morphic Permutations",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "145866845",
+      "1683786"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1540",
+    "title": "Coalition Resilient Outcomes in Max k Cut Games",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "2982010",
+      "1699072"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1541",
+    "title": "Separation Logic with Linearly Compositional Inductive Predicates and Set Data Constraints",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "49609180",
+      "2082947",
+      "1749425"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1542",
+    "title": "Enumerating Connected Induced Subgraphs: Improved Delay and Experimental Comparison",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "2355288",
+      "1750351",
+      "1685583"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1543",
+    "title": "Linear Time In Place DFS and BFS on the Restore Word RAM",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "2317777",
+      "1730580",
+      "1685583"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1544",
+    "title": "Functorial Substitution of Operations on Abstract Data",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "144996383",
+      "145968220",
+      "47071275"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1545",
+    "title": "Vehicle data driven NO2 forecasting by using Kernel Density Estimation",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "152253993",
+      "11102536",
+      "143634280",
+      "1726425"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1546",
+    "title": "A Smart Cache Strategy for Tag Based Browsing of Digital Collections",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "143702465",
+      "152253993"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1547",
+    "title": "Probabilistic Parameterized Polynomial Time",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1699072",
+      "3128874",
+      "1720600"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1548",
+    "title": "Forbidden Directed Minors, Directed Path Width and Directed Tree Width of Tree like Digraphs",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1719053",
+      "1685849",
+      "3128874"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1549",
+    "title": "A Constant Approximation Algorithm for the Uniform A Priori Capacitated Vehicle Routing Problem with Unit Demands",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1746011",
+      "1730580",
+      "1751931"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1550",
+    "title": "Improving Face Recognition Methods Based on POEM Features",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1726425",
+      "143634280",
+      "1726425"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1551",
+    "title": "State Complexity of Pseudocatenation",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "40081948",
+      "1749425"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1552",
+    "title": "Towards Automatic Comparison of Cloud Service Security Certifications",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1746173",
+      "1726425",
+      "143634280"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1553",
+    "title": "Consistency as a branching time notion",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "143702465",
+      "47071275",
+      "3128874"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1554",
+    "title": "Formalizing Organizational Pattern Languages Using Grammars",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1765008",
+      "144395552",
+      "144214670"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1555",
+    "title": "Parallel density based downsampling of cytometry data",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "11102536",
+      "2082947"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1556",
+    "title": "An Efficient Algorithm for Combining Verification & Validation Methods",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1793096",
+      "1731361",
+      "1726847"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1557",
+    "title": "Framework for processing behavioral business rules written in a controlled natural language",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1765008",
+      "1726847",
+      "144395552",
+      "145968220"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1558",
+    "title": "Indoor Localization based on Advanced Point Mass Filtering Method",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1755645",
+      "1796253",
+      "143634280"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1559",
+    "title": "On Point Set Embeddings for k planar graphs with a few bends per edge",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "51318896",
+      "1678807",
+      "48206205"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1560",
+    "title": "Quantum versus Classical Online Streaming Algorithms with Advice and Logarithmic Memory",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "145483430",
+      "2355288",
+      "1699072"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1561",
+    "title": "The Complexity of Synthesis for 43 Boolean Petri Net Types",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "40081948",
+      "152729774",
+      "1720600"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1562",
+    "title": "Comparative Expressiveness of Product Line Calculus of Communicating Systems and 1 Selecting Modal Transition Systems",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "2192461",
+      "49609180",
+      "2192461",
+      "1746173"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1563",
+    "title": "Towards a DevOps Monitoring Dashboard Tool",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1741679",
+      "1793096"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1564",
+    "title": "Computational Complexity Aspects of Deadlock Model Expressiveness",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1746173",
+      "1695779"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1565",
+    "title": "A Human Checkable Four Color Theorem Proof",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "145483430",
+      "1750351",
+      "51318896"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1566",
+    "title": "The Dead Cryptographers Society Problem",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1730580",
+      "1748483"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1567",
+    "title": "What is the Size of the Hilbert Hotel's Computer?",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "47071275",
+      "1683786"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1568",
+    "title": "The Randomness Delusion",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1739453",
+      "2982010",
+      "1683786"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1569",
+    "title": "P = RP Proof",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "145483430",
+      "107735799",
+      "1683786"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1570",
+    "title": "Private coin verification with magic coins",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1753080",
+      "145866845"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1571",
+    "title": "Gait Based Authentication Using Android Smartphone Accelerometer and Gyroscopic Sensors",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "152253993",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1572",
+    "title": "Quantum Dynamic Programming Algorithm for DAGs. Applications for AND OR DAG Evaluation and DAG's Diameter Search",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "143702465",
+      "1969092",
+      "40081948"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1573",
+    "title": "A simple computational model of minimally conscious cognitive systems",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1748108",
+      "1795049",
+      "1749425"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1574",
+    "title": "Agent based recommender service portfolio",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "144996383",
+      "1796253",
+      "1680709"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1575",
+    "title": "Isometric Gene Tree Reconciliation With Interval Edge Lengths",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1728566",
+      "2355288",
+      "1738179"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1576",
+    "title": "EMFeR: Model Checking for Object Oriented (EMF) Models",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "145968220",
+      "152729774",
+      "1689732"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1577",
+    "title": "Input Driven Multi Counter Automata",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1720600",
+      "2192461",
+      "1749425"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1578",
+    "title": "Do Null Type Mutation Operators Help Prevent Null Type Faults?",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "145968220",
+      "144395552",
+      "152729774"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1579",
+    "title": "Multi Stranded String Assembling Systems",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1753080",
+      "145866845",
+      "1695779"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1580",
+    "title": "One and Multi Pass Long Hop Neighbour Selection for Wireless Sensor Networks",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1726425",
+      "1796253",
+      "143634280"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1581",
+    "title": "Priority Scheduling in Bamboo Garden Trimming Problem",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "51318896",
+      "1738179",
+      "145866845"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1582",
+    "title": "Simple Root Cause Analysis by Separable Likelihoods",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "11102536",
+      "143634280",
+      "1726425"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1583",
+    "title": "Towards Combining Multitask and Multilingual Learning",
+    "conference": "SOFSEM 2019",
+    "assigned_reviewers": [
+      "1746173",
+      "3128874"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1644",
+    "title": "Disclosing Citation Meanings for Augmented Research Retrieval and Exploration",
+    "conference": "ESWC2019 papers",
+    "assigned_reviewers": [
+      "1721059",
+      "1398926410",
+      "40520756"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1645",
+    "title": "Loss Functions in Knowledge Graph Embedding Models",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "2079911",
+      "1861119",
+      "39876094"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1646",
+    "title": "Graph Convolution Based Classification for Ontology Alignment Change Prediction",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "1699771",
+      "1708906",
+      "2052329"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1647",
+    "title": "Mining Scholarly Data for Fine Grained Knowledge Graph Construction",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "1748257",
+      "3110430",
+      "33973438"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1648",
+    "title": "A Comprehensive Survey of Knowledge Graph Embeddings with Literals: Techniques and Applications",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "2052329",
+      "1708906"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1649",
+    "title": "Iterative Entity Alignment with Improved Neural Attribute Embedding",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "2077593657",
+      "3349721"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1650",
+    "title": "Combining embedding methods for a word intrusion task",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "2077593657",
+      "3349721",
+      "33973438",
+      "2346796"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1651",
+    "title": "Knowledge Reconciliation with Graph Convolutional Networks: Preliminary Results",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "2079911",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1652",
+    "title": "End to End Learning for Answering Structured Queries Directly over Text",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "3081683",
+      "1748257",
+      "1861119"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1653",
+    "title": "Can Knowledge Graphs and Deep Learning Approaches help in Representing, Detecting and Interpreting Metaphors?",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "1699771",
+      "39876094",
+      "2346796"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1663",
+    "title": "Knowledge Extraction From a Small Corpus of Unstructured Safeguarding Reports",
+    "conference": "ESWC2019 PosterDemo",
+    "assigned_reviewers": [
+      "2102859",
+      "1805399",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1696",
+    "title": "Using an existing website as a queryable low cost LOD publishing interface",
+    "conference": "ESWC2019 PosterDemo",
+    "assigned_reviewers": [
+      "2511068",
+      "1692708",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1709",
+    "title": "Peuplement du jeu de donnees conference",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1791253",
+      "1721059",
+      "1684267"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1710",
+    "title": "SaGe : preemption Web pour les services publics d'evaluation de requetes SPARQL",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2594085"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1711",
+    "title": "Explorer la synergie entre le Web semantique et la vision par ordinateur pour la personnalisation",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1797997",
+      "143789213"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1712",
+    "title": "Trois conceptions du processus : les raisons dun choix",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2079885865",
+      "32738587",
+      "47033143",
+      "2076987564"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1713",
+    "title": "Pourquoi dois je croire ta prediction ? Comment expliquer les resultats d'une classification automatique de sentiments a partir de textes",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "71102575",
+      "1721059",
+      "144474383",
+      "3020650",
+      "1393699478"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1714",
+    "title": "Rules based decision support system and domain ontology for diabetes diagnosis",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "39616847",
+      "71615704"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1716",
+    "title": "Representativite des bases de connaissances avec la loi de Benford generalisee",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1699343",
+      "1684267"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1717",
+    "title": "DOREMUS: un graphe duvres musicales interconnectees",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "39336831",
+      "51426645"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1718",
+    "title": "Meeting Intents Detection Based on Ontology for Automatic Email Answering",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2072843292",
+      "105075473",
+      "2619539"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1719",
+    "title": "Booster le matching holistique : un jeu d'alignement de reference base sur les cliques relaxes",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "105075473",
+      "144890655"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1720",
+    "title": "AgroLD: un graphe de connaissances pour la caracterisation des mecanismes moleculaires complexes impactant le phenome des plantes",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1753138"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1721",
+    "title": "Apprentissage de preferences a partir d'une ontologie formelle : methodes et application en antibiotherapie",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2075146591",
+      "2315703",
+      "144890655"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1723",
+    "title": "Apports des bases de connaissances RDF a la detection de verite et vice versa",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1682119",
+      "2619539"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1724",
+    "title": "EpidNews : un explorateur de donnees epidemiologiques pour la surveillance des maladies animales",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "117790463",
+      "1791253"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1725",
+    "title": "CIMOn : Vers un outil dintegration contextuelle de modules ontologiques OWL sous Protege",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1708081",
+      "1918610",
+      "2762082",
+      "145201295",
+      "2064474720"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1726",
+    "title": "LDP DL: un langage pour definir la conception des plateformes de donnees liees",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1772731"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1727",
+    "title": "Une nouvelle methode ensembliste pour la reconnaissance et la desambiguisation d'entites nommees en utilisant des reseaux de neurones",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2081345434"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1728",
+    "title": "Positionnement sur le Web Semantique des Objets",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1797997",
+      "2076987564",
+      "1393699478",
+      "1701529"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1729",
+    "title": "Interactive Interpretation of Serial Episodes: experiments in musical analysis",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2079885865"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1731",
+    "title": "Patrons linguistiques pour l'extraction de taches dans des transcriptions de reunions",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2072843292",
+      "2081345434",
+      "2315703"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1732",
+    "title": "Apports des ontologies aux systemes de recommandation : etat de lart et perspectives",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1728054",
+      "38602530",
+      "2066252198",
+      "2094211937"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1733",
+    "title": "Link Prediction on Dynamic Attributed Knowledge Graphs for Maritime Situational Awareness",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "144890655",
+      "1753013",
+      "1735198",
+      "2075586581",
+      "143789213"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1734",
+    "title": "Recherche intelligente de processus d'analyse de traces d'e learning via des inferences semantiques",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2075146591",
+      "2594085",
+      "32738587",
+      "51426645"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1736",
+    "title": "Un navigateur pour le Web des donnees liees",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "117790463",
+      "1718164",
+      "2091789013",
+      "1684267",
+      "2899255"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1737",
+    "title": "Approche de prediction de presence d'amiante dans les batiments basee sur l'exploitation des descriptions temporelles incompletes de produits commercialises",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "71102575",
+      "1753013",
+      "39336831",
+      "2093112724",
+      "143789213"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1738",
+    "title": "Cultivating Semantics for Data in Agriculture and Nutrition. Recommendations from the RDA Agrisemantics Working Group",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2094211937"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1739",
+    "title": "Une plateforme web a base dontologies pour lhebergement de modeles de simulation des maladies infectieuses",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1682119",
+      "2064474720"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1740",
+    "title": "Apprentissage des connaissances ontologiques a partir du code source Java avec les Chaines de Markov Cachees",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1708081",
+      "2081345434",
+      "1792960",
+      "1701529",
+      "2899255"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1741",
+    "title": "Vers l'Aide a la Decision Medicale sous des Donnees Manquantes",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2066252198",
+      "105075473",
+      "2075586581",
+      "145201295",
+      "71615704"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "1742",
+    "title": "Intelligence Artificielle et Sante, une analyse retrospective depuis 2010",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "38602530",
+      "144474383",
+      "1721059",
+      "1753013"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "1885",
+    "title": "Towards Exploiting Implicit Human Feedback for Improving RDF2vec Embeddings",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "1861119",
+      "2077593657",
+      "2683157"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1886",
+    "title": "DeepLENS: Deep Learning for Entity Summarization",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "3110430",
+      "1742501819"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1887",
+    "title": "Conditional Constraints for Knowledge Graph Embeddings",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "1861119",
+      "3110430"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1888",
+    "title": "Metadata standards for the FAIR sharing of vector embeddings in Biomedicine",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "2118044610",
+      "3081683"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1889",
+    "title": "Entity Type Prediction in Knowledge Graphs using Embeddings",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "1802726",
+      "2346796"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1890",
+    "title": "Probing a Semantic Dependency Parser for Translational Relation Embeddings",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "2118044610",
+      "1802726"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "1891",
+    "title": "Semantic Entity Enrichment by leveraging Multi lingual Descriptions for Link Prediction",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "2077593657",
+      "2683157",
+      "1742501819"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1892",
+    "title": "Affinity Dependent Negative Sampling for Knowledge Graph Embeddings",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "2346796"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "1904",
+    "title": "Matching Conservation Restoration Trajectories: an Ontology Based Approach",
+    "conference": "SOFSEM 2021",
+    "assigned_reviewers": [
+      "152253993",
+      "1721059",
+      "2893196"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1906",
+    "title": "A Pipeline for Measuring Brand Loyalty through Social Media Mining",
+    "conference": "SOFSEM 2021",
+    "assigned_reviewers": [
+      "144165120",
+      "1755645",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1907",
+    "title": "Enhance Vietnamese Sentiment Classification with Deep Learning and Ensemble Techniques",
+    "conference": "SOFSEM 2021",
+    "assigned_reviewers": [
+      "1726847",
+      "1721059",
+      "1711719"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "1917",
+    "title": "An Experimental Evaluation of Content Based Recommendation Systems: Can Linked Data and BERT Help?",
+    "conference": "AICCSA 2020",
+    "assigned_reviewers": [
+      "38602530",
+      "1689640",
+      "3081813",
+      "1721059",
+      "35167485"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "2011",
+    "title": "Authorship Identification using Morphological Global vectors with stacked Bi directional LSTM",
+    "conference": "scik2021",
+    "assigned_reviewers": [
+      "1721059",
+      "33973438",
+      "2777543"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2012",
+    "title": "Predicting Paper Acceptance via Interpretable Decision Sets",
+    "conference": "scik2021",
+    "assigned_reviewers": [
+      "1398926410",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2013",
+    "title": "LOD connected offensive language ontology and tag set enrichment",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "66206385"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2014",
+    "title": "Measures of sentiments with giants components in social networks",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "2108768",
+      "49943757",
+      "2066549620"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2015",
+    "title": "Extending and Using a Sentiment Lexicon for Latin in a Linked Data Framework",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "153645913",
+      "2108768",
+      "66206385"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2016",
+    "title": "Emotion analysis of user reactions to online news",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "1766782",
+      "66206385"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2017",
+    "title": "Prospectus Embeddings & Sentiment Analysis for IPO Pricing & Withdrawal",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "145275796",
+      "3034066",
+      "66206385",
+      "1721059"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "2018",
+    "title": "Multilingual Knowledge Systems as Linguistic Linked Open Data for European Language Grid",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "3034066",
+      "2043236",
+      "2601200"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2019",
+    "title": "Extending General Sentiment Lexicon to Specific Domains in (Semi )Automatic Manner",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "145275796",
+      "66206385",
+      "2717024"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2020",
+    "title": "Automatic Generation of Domain Specific Sentiment Lexicon",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "3101511",
+      "66206385",
+      "3338131"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2021",
+    "title": "Aspect based sentiment analysis of conference review forms with LD enabled review criteria",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "2805349",
+      "2144840"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2022",
+    "title": "Sentiment Analysis of Hausa Tweets using English Translated Benchmark Sentiment Lexicon",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "3271120",
+      "2601200",
+      "8892942"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2026",
+    "title": "WikiCSSH: Extracting and Evaluating Computer Science Subject Headings from Wikipedia",
+    "conference": "skgria qss2021",
+    "assigned_reviewers": [
+      "39876094",
+      "1761385",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2027",
+    "title": "Can we assess research using open scientific knowledge graphs? A case study within the Italian National Scientific Qualification",
+    "conference": "skgria qss2021",
+    "assigned_reviewers": [
+      "1721059",
+      "1847107",
+      "34303113"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2028",
+    "title": "Frame Semantics for Social NLP in Italian: Analyzing Responsibility Framing in Femicide News Reports",
+    "conference": "CLIC it 2021",
+    "assigned_reviewers": [
+      "1721059",
+      "2040952",
+      "1725656"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2075",
+    "title": "Text Enhanced Relational Context Hyperbolic Graph Convolution Network for Link Prediction",
+    "conference": "ESWC 2022",
+    "assigned_reviewers": [
+      "33973438",
+      "2052329",
+      "1817564",
+      "1721059"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "2085",
+    "title": "Siamese Hybrid Graph Neural Network model for Short Text Similarity",
+    "conference": "ESWC 2022",
+    "assigned_reviewers": [
+      "1729599",
+      "1390061529",
+      "1817564",
+      "1721059",
+      "2945518"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "2129",
+    "title": "Sequence based extractive summarisation for Scientific Articles",
+    "conference": "SciK 2022",
+    "assigned_reviewers": [
+      "1721059",
+      "7974521"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2130",
+    "title": "Exploring user needs in relation to algorithmically constructed classifications of publications: A case study",
+    "conference": "SciK 2022",
+    "assigned_reviewers": [
+      "1721059",
+      "39565794"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2236",
+    "title": "Transformer RoBERTa vs. TF IDF for websites content based classification",
+    "conference": "DeepOntoNLP2022",
+    "assigned_reviewers": [
+      "121926334"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2237",
+    "title": "KERMIT A Transformer Based Approach for Knowledge Graph Matching",
+    "conference": "DeepOntoNLP2022",
+    "assigned_reviewers": [
+      "1721059"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2238",
+    "title": "Ontologies to build a predictive architecture to classify and explain",
+    "conference": "DeepOntoNLP2022",
+    "assigned_reviewers": [
+      "1701184"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2239",
+    "title": "Combining WordNet and Word Embeddings in Data Augmentation for Legal Texts",
+    "conference": "DeepOntoNLP2022",
+    "assigned_reviewers": [
+      "121926334"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2240",
+    "title": "Les animaux chinois de Buffon : identification automatique des jugements critiques dans lHistoire naturelle (1749 1789)",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2814447",
+      "3329574",
+      "32653342"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2241",
+    "title": "Exploration orientee entites : etude du genre dans le Mercure de France",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "1714893",
+      "2074284952",
+      "3329574",
+      "1921554"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "2242",
+    "title": "Romanciers et romancieres du XIXeme siecle : une etude automatique du genre sur le corpus GIRLS",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "51040735",
+      "1921554"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2243",
+    "title": "LDApol: vers une methodologie de contextualisation des discours politiques",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2067211723",
+      "1983431"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2244",
+    "title": "Reconnaissance automatique des appellations duvres visuelles antiques",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2316506",
+      "1791591",
+      "47763032",
+      "2064801127"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "2245",
+    "title": "Simulation derreurs dOCR dans les systemes de TAL pour le traitement de donnees anachroniques",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2064801127",
+      "47763032",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2246",
+    "title": "Reinterroger l'edition numerique et la consultation d'oeuvres anciennes : tracabilite, accessibilite, interpretabilite",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "1714893"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2247",
+    "title": "Flux d'informations dans les systemes encodeur decodeur. Application a l'explication des biais de genre dans les systemes de traduction automatique.",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2067211723",
+      "34796546",
+      "1755585",
+      "40199896",
+      "118913334"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "2249",
+    "title": "TAL et Litterature comparee. Detection automatique des correspondances textuelles entre les reecritures d'un mythe",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2074284952"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2250",
+    "title": "Reconnaissance d'entites nommees sur des sorties OCR bruitees : des pistes pour la desambiguisation morphologique automatique",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "34796546",
+      "1791591"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2251",
+    "title": "Modelisation devenements historiques a des fins dannotation",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2316506",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2252",
+    "title": "The evolution of the image of a cultural institution, a distant reading of the reception of the Palais de Tokyo by the press (2002 2021)",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "1755585",
+      "2067211723",
+      "2814447"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2255",
+    "title": "CLISTER : Un corpus pour la similarite semantique textuelle dans des cas cliniques en francais",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2065852440",
+      "1721059",
+      "2814447"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2278",
+    "title": "Open Information Extraction on German Wikipedia Texts",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "134199365"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2279",
+    "title": "Enriching Data Lakes with Knowledge Graphs",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "1409093271",
+      "2683157",
+      "2627116"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2280",
+    "title": "Enriching a Fashion Knowledge Graph from Product Textual Descriptions",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "1409093271",
+      "1721059",
+      "1491238594"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2281",
+    "title": "Extracting Knowledge from Parliamentary Debates for Studying Political Culture and Language",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "145267753",
+      "8344219"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2282",
+    "title": "MediCause: Causal Relation Modelling and Extraction from Medical Publications",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "2627116"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2283",
+    "title": "FAIR Knowledge Graph construction from text, an approach applied to fictional novels",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "2052329",
+      "2705621"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2284",
+    "title": "Building Lightweight Ontologies for Faceted Search with Named Entity Recognition: Case WarMemoirSampo",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "34530294",
+      "40520756",
+      "145000677"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2286",
+    "title": "Constructing a Knowledge Graph from Indian Legal Domain Corpus",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "3256660",
+      "2346796"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2287",
+    "title": "An Approach for Automatic Construction of an Algorithmic Knowledge Graph from Textual Resources",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "1869895"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2288",
+    "title": "Apprentissage multimodal pour le diagnostic de fautes sur donnees sequentielles non alignees et arbitrairement longues",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2075146591",
+      "17178754"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2289",
+    "title": "Amelioration de la detection des drifts par l'observation des Shapley Loss Values",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1935109",
+      "2321708",
+      "12455293"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2290",
+    "title": "Towards an Efficient FAIRification Approach of Tabular Data with Knowledge Graph Models",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "3048690"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2291",
+    "title": "Scene understanding pour la maintenance",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1931593"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2292",
+    "title": "Apprentissage automatique pour la surveillance de marques",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2066252198",
+      "12455293"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2293",
+    "title": "Comprehension narrative semi automatique pour le debriefing de session de simulation",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2621219",
+      "1750062"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2294",
+    "title": "Apprentissage automatique avec peu dexemples pour lextraction du contenu des documents non structures",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2621219",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2295",
+    "title": "Recommandation dobjets dapprentissage basee sur des objectifs dapprentissage en utilisant les modeles de plongement de phrases.",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2075146591"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2296",
+    "title": "XR CSB: EXplainable Representation of Complex System Behavior using automata for multivariate times series",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "17178754",
+      "2583816"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2297",
+    "title": "Tourists Profile Measure : Mesure pour le Profilage Touristique",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2066252198",
+      "2133649"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2298",
+    "title": "Vers une ingenierie des exigences dirigee par les donnees : analyse automatique d'avis d'utilisateurs",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1750062"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2299",
+    "title": "Methodologie danonymisation des la conception dun jeu de donnees en imagerie medicale",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2762082"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2300",
+    "title": "Selection dimages satellites pour inversion bathymetrique par reseau de neurones convolutif",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1785092"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2302",
+    "title": "Analyse automatique de documentation technique application sur des retours dessais en developpement",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "146749506"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2303",
+    "title": "Industrialisation dalgorithmes de deep learning pour lextraction des caracteristiques des medicaments",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1935109",
+      "1785092"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2304",
+    "title": "XAI et information geographique: application aux reconstructions paleoenvironnementales",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1931593"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2305",
+    "title": "Planification automatique de scenarios dentrainement robustes",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2583816",
+      "2321708"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2306",
+    "title": "VAGO: un outil en ligne de mesure du vague et de la subjectivite",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1721059"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2307",
+    "title": "Comparaison des solutions de NLU sur un corpus francais pour un chatbot de support COVID 19",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2133649"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2308",
+    "title": "Vers des outils d'aide a la conception et operationnalisation d'ontologies applicatives sans connaissances OWL !",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2762082"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2310",
+    "title": "LIA au service de lengagement des secours",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2078999419",
+      "2321708"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2311",
+    "title": "A domain specific language for university timetabling",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2078999419"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2312",
+    "title": "AI at work: proposals for building trust",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "104152935"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2313",
+    "title": "Knowledge Graph Embeddings for Causal Relation Prediction",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "71679903"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2314",
+    "title": "Improving Language Model Predictions via Prompts Enriched with Knowledge Graphs",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "46482493",
+      "152151312"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2315",
+    "title": "Towards A Question Answering System over Temporal Knowledge Graph Embedding",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "143772714",
+      "1708906",
+      "145214359"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2316",
+    "title": "Multi label Classification using BERT and Knowledge Graphs with a Limited Training Dataset",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "3349721",
+      "47559204",
+      "40520756"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2317",
+    "title": "Neuro symbolic learning for dealing with sparsity in cultural heritage image archives: an empirical journey",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "1721059",
+      "146627338"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2318",
+    "title": "Tiresias: Bilingual Question Answering over DBpedia Abstracts through Machine Translation and BERT",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "39876094",
+      "47559204"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2319",
+    "title": "Enhancing Wikidata using pre trained language models",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "145214359"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2320",
+    "title": "Automatic Semantic Modeling by Cross Modal Retrieval",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "1802726",
+      "143772714"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2321",
+    "title": "CosmOntology: Creating an Ontology of the Cosmos [position paper]",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "3349721",
+      "33973438",
+      "2052329"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2322",
+    "title": "A Closer Look at Sum based Embeddings for Knowledge Graphs Containing Procedural Knowledge",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "1802726",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2323",
+    "title": "Transformer based Subject Entity Detection in Wikipedia Listings",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "46482493",
+      "40520756"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2324",
+    "title": "Knowledge Graph Embeddings for Link Prediction: Beware of Semantics!",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "39876094"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2325",
+    "title": "Improving Convolutional Neural Networks for Knowledge Graph Completion",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "152151312"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2463",
+    "title": "Automatic classification of stigmatizing articles of mental illness: the case of Portuguese online newspapers",
+    "conference": "ADBIS 2022",
+    "assigned_reviewers": [
+      "2663884",
+      "1783477",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2466",
+    "title": "Relation extraction from clinical cases for a knowledge graph",
+    "conference": "ADBIS 2022",
+    "assigned_reviewers": [
+      "1783477",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2600",
+    "title": "Classification de surfaces dans une image hyperspectrale urbaine par reseau de neurones pour la qualite de l'air.",
+    "conference": "APIA2023",
+    "assigned_reviewers": [
+      "104152935",
+      "1730023",
+      "1931593",
+      "1721059",
+      "2081345434"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "2607",
+    "title": "Classification de documents metiers pour l'aide a l'extraction et la classification de relations lexico semantiques typees et ponderees",
+    "conference": "APIA2023",
+    "assigned_reviewers": [
+      "1750062",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2623",
+    "title": "Plenary Speeches of the Parliament of Finland as Linked Open Data and Data Services",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "145267753",
+      "134199365",
+      "2052329"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2625",
+    "title": "The Utilization of Artificial Intelligence for Developing Autonomous Social Robots within Health Information Systems",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "2522516",
+      "2052329"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2626",
+    "title": "Semantification of CEUR WS with Wikidata as a target Knowledge Graph",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "2627116",
+      "2689774"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2627",
+    "title": "Knowledge graph data enrichment based on a software library for text mapping to the Sustainable Development Goals",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "40520756",
+      "2627116"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2628",
+    "title": "A comprehensive methodology for re evaluation of Knowledge Graph embedding models",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "2683157",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2629",
+    "title": "Ont OCEL: An ontology based representation for OCEL",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "1680758"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2630",
+    "title": "Science and Technology Ontology: A Taxonomy of Emerging Topics",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "40520756",
+      "1680758",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2632",
+    "title": "Exploring In Context Learning Capabilities of Foundation Models for Generating Knowledge Graphs from Text",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "2683157",
+      "134199365"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2633",
+    "title": "Semi supervised Construction of Domain specific Knowledge Graphs",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "2689774",
+      "134199365"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2634",
+    "title": "Information Extraction with GPT 3 for Knowledge Base Construction",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "145267753",
+      "2522516"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2635",
+    "title": "Is GPT fit for KGQA? Preliminary results",
+    "conference": "TEXT2KG2023",
+    "assigned_reviewers": [
+      "1869895"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "2725",
+    "title": "Classification de surfaces dans une image hyperspectrale urbaine par reseau de neurones pour la qualite de l'air.",
+    "conference": "APIA2023",
+    "assigned_reviewers": [
+      "104152935",
+      "1730023",
+      "1931593",
+      "1721059",
+      "2081345434"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "2732",
+    "title": "Classification de documents metiers pour l'aide a l'extraction et la classification de relations lexico semantiques typees et ponderees",
+    "conference": "APIA2023",
+    "assigned_reviewers": [
+      "1750062",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "2880",
+    "title": "Automatic classification of stigmatizing articles of mental illness: the case of Portuguese online newspapers",
+    "conference": "ADBIS 2022",
+    "assigned_reviewers": [
+      "2663884",
+      "1783477",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "2883",
+    "title": "Relation extraction from clinical cases for a knowledge graph",
+    "conference": "ADBIS 2022",
+    "assigned_reviewers": [
+      "1783477",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3016",
+    "title": "Knowledge Graph Embeddings for Causal Relation Prediction",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "71679903"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3017",
+    "title": "Improving Language Model Predictions via Prompts Enriched with Knowledge Graphs",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "46482493",
+      "152151312"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3018",
+    "title": "Towards A Question Answering System over Temporal Knowledge Graph Embedding",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "143772714",
+      "1708906",
+      "145214359"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3019",
+    "title": "Multi label Classification using BERT and Knowledge Graphs with a Limited Training Dataset",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "3349721",
+      "47559204",
+      "40520756"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3020",
+    "title": "Neuro symbolic learning for dealing with sparsity in cultural heritage image archives: an empirical journey",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "1721059",
+      "146627338"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3021",
+    "title": "Tiresias: Bilingual Question Answering over DBpedia Abstracts through Machine Translation and BERT",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "39876094",
+      "47559204"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3022",
+    "title": "Enhancing Wikidata using pre trained language models",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "145214359"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3023",
+    "title": "Automatic Semantic Modeling by Cross Modal Retrieval",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "1802726",
+      "143772714"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3024",
+    "title": "CosmOntology: Creating an Ontology of the Cosmos [position paper]",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "3349721",
+      "33973438",
+      "2052329"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3025",
+    "title": "A Closer Look at Sum based Embeddings for Knowledge Graphs Containing Procedural Knowledge",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "1802726",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3026",
+    "title": "Transformer based Subject Entity Detection in Wikipedia Listings",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "46482493",
+      "40520756"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3027",
+    "title": "Knowledge Graph Embeddings for Link Prediction: Beware of Semantics!",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "39876094"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3028",
+    "title": "Improving Convolutional Neural Networks for Knowledge Graph Completion",
+    "conference": "DL4KG2022",
+    "assigned_reviewers": [
+      "152151312"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3029",
+    "title": "Apprentissage multimodal pour le diagnostic de fautes sur donnees sequentielles non alignees et arbitrairement longues",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2075146591",
+      "17178754"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3030",
+    "title": "Amelioration de la detection des drifts par l'observation des Shapley Loss Values",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1935109",
+      "2321708",
+      "12455293"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3031",
+    "title": "Towards an Efficient FAIRification Approach of Tabular Data with Knowledge Graph Models",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "3048690"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3032",
+    "title": "Scene understanding pour la maintenance",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1931593"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3033",
+    "title": "Apprentissage automatique pour la surveillance de marques",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2066252198",
+      "12455293"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3034",
+    "title": "Comprehension narrative semi automatique pour le debriefing de session de simulation",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2621219",
+      "1750062"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3035",
+    "title": "Apprentissage automatique avec peu dexemples pour lextraction du contenu des documents non structures",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2621219",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3036",
+    "title": "Recommandation dobjets dapprentissage basee sur des objectifs dapprentissage en utilisant les modeles de plongement de phrases.",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2075146591"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3037",
+    "title": "XR CSB: EXplainable Representation of Complex System Behavior using automata for multivariate times series",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "17178754",
+      "2583816"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3038",
+    "title": "Tourists Profile Measure : Mesure pour le Profilage Touristique",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2066252198",
+      "2133649"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3039",
+    "title": "Vers une ingenierie des exigences dirigee par les donnees : analyse automatique d'avis d'utilisateurs",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1750062"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3040",
+    "title": "Methodologie danonymisation des la conception dun jeu de donnees en imagerie medicale",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2762082"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3041",
+    "title": "Selection dimages satellites pour inversion bathymetrique par reseau de neurones convolutif",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1785092"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3043",
+    "title": "Analyse automatique de documentation technique application sur des retours dessais en developpement",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "146749506"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3044",
+    "title": "Industrialisation dalgorithmes de deep learning pour lextraction des caracteristiques des medicaments",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1935109",
+      "1785092"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3045",
+    "title": "XAI et information geographique: application aux reconstructions paleoenvironnementales",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1931593"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3046",
+    "title": "Planification automatique de scenarios dentrainement robustes",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2583816",
+      "2321708"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3047",
+    "title": "VAGO: un outil en ligne de mesure du vague et de la subjectivite",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "1721059"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3048",
+    "title": "Comparaison des solutions de NLU sur un corpus francais pour un chatbot de support COVID 19",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2133649"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3049",
+    "title": "Vers des outils d'aide a la conception et operationnalisation d'ontologies applicatives sans connaissances OWL !",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2762082"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3051",
+    "title": "LIA au service de lengagement des secours",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2078999419",
+      "2321708"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3052",
+    "title": "A domain specific language for university timetabling",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "2078999419"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3053",
+    "title": "AI at work: proposals for building trust",
+    "conference": "APIA2022",
+    "assigned_reviewers": [
+      "104152935"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3055",
+    "title": "Open Information Extraction on German Wikipedia Texts",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "134199365"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3056",
+    "title": "Enriching Data Lakes with Knowledge Graphs",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "1409093271",
+      "2683157",
+      "2627116"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3057",
+    "title": "Enriching a Fashion Knowledge Graph from Product Textual Descriptions",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "1409093271",
+      "1721059",
+      "1491238594"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3058",
+    "title": "Extracting Knowledge from Parliamentary Debates for Studying Political Culture and Language",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "145267753",
+      "8344219"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3059",
+    "title": "MediCause: Causal Relation Modelling and Extraction from Medical Publications",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "2627116"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3060",
+    "title": "FAIR Knowledge Graph construction from text, an approach applied to fictional novels",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "2052329",
+      "2705621"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3061",
+    "title": "Building Lightweight Ontologies for Faceted Search with Named Entity Recognition: Case WarMemoirSampo",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "34530294",
+      "40520756",
+      "145000677"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3063",
+    "title": "Constructing a Knowledge Graph from Indian Legal Domain Corpus",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "3256660",
+      "2346796"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3064",
+    "title": "An Approach for Automatic Construction of an Algorithmic Knowledge Graph from Textual Resources",
+    "conference": "Text2KG",
+    "assigned_reviewers": [
+      "1869895"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3067",
+    "title": "CLISTER : Un corpus pour la similarite semantique textuelle dans des cas cliniques en francais",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2065852440",
+      "1721059",
+      "2814447"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3089",
+    "title": "Les animaux chinois de Buffon : identification automatique des jugements critiques dans lHistoire naturelle (1749 1789)",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2814447",
+      "3329574",
+      "32653342"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3090",
+    "title": "Exploration orientee entites : etude du genre dans le Mercure de France",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "1714893",
+      "2074284952",
+      "3329574",
+      "1921554"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "3091",
+    "title": "Romanciers et romancieres du XIXeme siecle : une etude automatique du genre sur le corpus GIRLS",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "51040735",
+      "1921554"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3092",
+    "title": "LDApol: vers une methodologie de contextualisation des discours politiques",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2067211723",
+      "1983431"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3093",
+    "title": "Reconnaissance automatique des appellations duvres visuelles antiques",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2316506",
+      "1791591",
+      "47763032",
+      "2064801127"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "3094",
+    "title": "Simulation derreurs dOCR dans les systemes de TAL pour le traitement de donnees anachroniques",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2064801127",
+      "47763032",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3095",
+    "title": "Reinterroger l'edition numerique et la consultation d'oeuvres anciennes : tracabilite, accessibilite, interpretabilite",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "1714893"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3096",
+    "title": "Flux d'informations dans les systemes encodeur decodeur. Application a l'explication des biais de genre dans les systemes de traduction automatique.",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2067211723",
+      "34796546",
+      "1755585",
+      "40199896",
+      "118913334"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "3098",
+    "title": "TAL et Litterature comparee. Detection automatique des correspondances textuelles entre les reecritures d'un mythe",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2074284952"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3099",
+    "title": "Reconnaissance d'entites nommees sur des sorties OCR bruitees : des pistes pour la desambiguisation morphologique automatique",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "34796546",
+      "1791591"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3100",
+    "title": "Modelisation devenements historiques a des fins dannotation",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "2316506",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3101",
+    "title": "The evolution of the image of a cultural institution, a distant reading of the reception of the Palais de Tokyo by the press (2002 2021)",
+    "conference": "TALN2022",
+    "assigned_reviewers": [
+      "1755585",
+      "2067211723",
+      "2814447"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3103",
+    "title": "Transformer RoBERTa vs. TF IDF for websites content based classification",
+    "conference": "DeepOntoNLP2022",
+    "assigned_reviewers": [
+      "121926334"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3104",
+    "title": "KERMIT A Transformer Based Approach for Knowledge Graph Matching",
+    "conference": "DeepOntoNLP2022",
+    "assigned_reviewers": [
+      "1721059"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3105",
+    "title": "Ontologies to build a predictive architecture to classify and explain",
+    "conference": "DeepOntoNLP2022",
+    "assigned_reviewers": [
+      "1701184"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3106",
+    "title": "Combining WordNet and Word Embeddings in Data Augmentation for Legal Texts",
+    "conference": "DeepOntoNLP2022",
+    "assigned_reviewers": [
+      "121926334"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3211",
+    "title": "Sequence based extractive summarisation for Scientific Articles",
+    "conference": "SciK 2022",
+    "assigned_reviewers": [
+      "1721059",
+      "7974521"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3212",
+    "title": "Exploring user needs in relation to algorithmically constructed classifications of publications: A case study",
+    "conference": "SciK 2022",
+    "assigned_reviewers": [
+      "1721059",
+      "39565794"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3241",
+    "title": "Text Enhanced Relational Context Hyperbolic Graph Convolution Network for Link Prediction",
+    "conference": "ESWC 2022",
+    "assigned_reviewers": [
+      "33973438",
+      "2052329",
+      "1817564",
+      "1721059"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "3251",
+    "title": "Siamese Hybrid Graph Neural Network model for Short Text Similarity",
+    "conference": "ESWC 2022",
+    "assigned_reviewers": [
+      "1729599",
+      "1390061529",
+      "1817564",
+      "1721059",
+      "2945518"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "3313",
+    "title": "Frame Semantics for Social NLP in Italian: Analyzing Responsibility Framing in Femicide News Reports",
+    "conference": "CLIC it 2021",
+    "assigned_reviewers": [
+      "1721059",
+      "2040952",
+      "1725656"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3314",
+    "title": "WikiCSSH: Extracting and Evaluating Computer Science Subject Headings from Wikipedia",
+    "conference": "skgria qss2021",
+    "assigned_reviewers": [
+      "39876094",
+      "1761385",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3315",
+    "title": "Can we assess research using open scientific knowledge graphs? A case study within the Italian National Scientific Qualification",
+    "conference": "skgria qss2021",
+    "assigned_reviewers": [
+      "1721059",
+      "1847107",
+      "34303113"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3319",
+    "title": "LOD connected offensive language ontology and tag set enrichment",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "66206385"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3320",
+    "title": "Measures of sentiments with giants components in social networks",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "2108768",
+      "49943757",
+      "2066549620"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3321",
+    "title": "Extending and Using a Sentiment Lexicon for Latin in a Linked Data Framework",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "153645913",
+      "2108768",
+      "66206385"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3322",
+    "title": "Emotion analysis of user reactions to online news",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "1766782",
+      "66206385"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3323",
+    "title": "Prospectus Embeddings & Sentiment Analysis for IPO Pricing & Withdrawal",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "145275796",
+      "3034066",
+      "66206385",
+      "1721059"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "3324",
+    "title": "Multilingual Knowledge Systems as Linguistic Linked Open Data for European Language Grid",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "3034066",
+      "2043236",
+      "2601200"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3325",
+    "title": "Extending General Sentiment Lexicon to Specific Domains in (Semi )Automatic Manner",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "145275796",
+      "66206385",
+      "2717024"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3326",
+    "title": "Automatic Generation of Domain Specific Sentiment Lexicon",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "3101511",
+      "66206385",
+      "3338131"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3327",
+    "title": "Aspect based sentiment analysis of conference review forms with LD enabled review criteria",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "2805349",
+      "2144840"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3328",
+    "title": "Sentiment Analysis of Hausa Tweets using English Translated Benchmark Sentiment Lexicon",
+    "conference": "SALLD 1",
+    "assigned_reviewers": [
+      "3271120",
+      "2601200",
+      "8892942"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3329",
+    "title": "Authorship Identification using Morphological Global vectors with stacked Bi directional LSTM",
+    "conference": "scik2021",
+    "assigned_reviewers": [
+      "1721059",
+      "33973438",
+      "2777543"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3330",
+    "title": "Predicting Paper Acceptance via Interpretable Decision Sets",
+    "conference": "scik2021",
+    "assigned_reviewers": [
+      "1398926410",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3426",
+    "title": "An Experimental Evaluation of Content Based Recommendation Systems: Can Linked Data and BERT Help?",
+    "conference": "AICCSA 2020",
+    "assigned_reviewers": [
+      "38602530",
+      "1689640",
+      "3081813",
+      "1721059",
+      "35167485"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "3436",
+    "title": "Matching Conservation Restoration Trajectories: an Ontology Based Approach",
+    "conference": "SOFSEM 2021",
+    "assigned_reviewers": [
+      "152253993",
+      "1721059",
+      "2893196"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3438",
+    "title": "A Pipeline for Measuring Brand Loyalty through Social Media Mining",
+    "conference": "SOFSEM 2021",
+    "assigned_reviewers": [
+      "144165120",
+      "1755645",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3439",
+    "title": "Enhance Vietnamese Sentiment Classification with Deep Learning and Ensemble Techniques",
+    "conference": "SOFSEM 2021",
+    "assigned_reviewers": [
+      "1726847",
+      "1721059",
+      "1711719"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3449",
+    "title": "Towards Exploiting Implicit Human Feedback for Improving RDF2vec Embeddings",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "1861119",
+      "2077593657",
+      "2683157"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3450",
+    "title": "DeepLENS: Deep Learning for Entity Summarization",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "3110430",
+      "1742501819"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3451",
+    "title": "Conditional Constraints for Knowledge Graph Embeddings",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "1861119",
+      "3110430"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3452",
+    "title": "Metadata standards for the FAIR sharing of vector embeddings in Biomedicine",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "2118044610",
+      "3081683"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3453",
+    "title": "Entity Type Prediction in Knowledge Graphs using Embeddings",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "1802726",
+      "2346796"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3454",
+    "title": "Probing a Semantic Dependency Parser for Translational Relation Embeddings",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "2118044610",
+      "1802726"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3455",
+    "title": "Semantic Entity Enrichment by leveraging Multi lingual Descriptions for Link Prediction",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "2077593657",
+      "2683157",
+      "1742501819"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3456",
+    "title": "Affinity Dependent Negative Sampling for Knowledge Graph Embeddings",
+    "conference": "DL4KG",
+    "assigned_reviewers": [
+      "2346796"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3600",
+    "title": "Peuplement du jeu de donnees conference",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1791253",
+      "1721059",
+      "1684267"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3601",
+    "title": "SaGe : preemption Web pour les services publics d'evaluation de requetes SPARQL",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2594085"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3602",
+    "title": "Explorer la synergie entre le Web semantique et la vision par ordinateur pour la personnalisation",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1797997",
+      "143789213"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3603",
+    "title": "Trois conceptions du processus : les raisons dun choix",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2079885865",
+      "32738587",
+      "47033143",
+      "2076987564"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "3604",
+    "title": "Pourquoi dois je croire ta prediction ? Comment expliquer les resultats d'une classification automatique de sentiments a partir de textes",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "71102575",
+      "1721059",
+      "144474383",
+      "3020650",
+      "1393699478"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "3605",
+    "title": "Rules based decision support system and domain ontology for diabetes diagnosis",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "39616847",
+      "71615704"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3607",
+    "title": "Representativite des bases de connaissances avec la loi de Benford generalisee",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1699343",
+      "1684267"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3608",
+    "title": "DOREMUS: un graphe duvres musicales interconnectees",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "39336831",
+      "51426645"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3609",
+    "title": "Meeting Intents Detection Based on Ontology for Automatic Email Answering",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2072843292",
+      "105075473",
+      "2619539"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3610",
+    "title": "Booster le matching holistique : un jeu d'alignement de reference base sur les cliques relaxes",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "105075473",
+      "144890655"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3611",
+    "title": "AgroLD: un graphe de connaissances pour la caracterisation des mecanismes moleculaires complexes impactant le phenome des plantes",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1753138"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3612",
+    "title": "Apprentissage de preferences a partir d'une ontologie formelle : methodes et application en antibiotherapie",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2075146591",
+      "2315703",
+      "144890655"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3614",
+    "title": "Apports des bases de connaissances RDF a la detection de verite et vice versa",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1682119",
+      "2619539"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3615",
+    "title": "EpidNews : un explorateur de donnees epidemiologiques pour la surveillance des maladies animales",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "117790463",
+      "1791253"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3616",
+    "title": "CIMOn : Vers un outil dintegration contextuelle de modules ontologiques OWL sous Protege",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1708081",
+      "1918610",
+      "2762082",
+      "145201295",
+      "2064474720"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "3617",
+    "title": "LDP DL: un langage pour definir la conception des plateformes de donnees liees",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1772731"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3618",
+    "title": "Une nouvelle methode ensembliste pour la reconnaissance et la desambiguisation d'entites nommees en utilisant des reseaux de neurones",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2081345434"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3619",
+    "title": "Positionnement sur le Web Semantique des Objets",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1797997",
+      "2076987564",
+      "1393699478",
+      "1701529"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "3620",
+    "title": "Interactive Interpretation of Serial Episodes: experiments in musical analysis",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2079885865"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3622",
+    "title": "Patrons linguistiques pour l'extraction de taches dans des transcriptions de reunions",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2072843292",
+      "2081345434",
+      "2315703"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3623",
+    "title": "Apports des ontologies aux systemes de recommandation : etat de lart et perspectives",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1728054",
+      "38602530",
+      "2066252198",
+      "2094211937"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "3624",
+    "title": "Link Prediction on Dynamic Attributed Knowledge Graphs for Maritime Situational Awareness",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "144890655",
+      "1753013",
+      "1735198",
+      "2075586581",
+      "143789213"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "3625",
+    "title": "Recherche intelligente de processus d'analyse de traces d'e learning via des inferences semantiques",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2075146591",
+      "2594085",
+      "32738587",
+      "51426645"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "3627",
+    "title": "Un navigateur pour le Web des donnees liees",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "117790463",
+      "1718164",
+      "2091789013",
+      "1684267",
+      "2899255"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "3628",
+    "title": "Approche de prediction de presence d'amiante dans les batiments basee sur l'exploitation des descriptions temporelles incompletes de produits commercialises",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "71102575",
+      "1753013",
+      "39336831",
+      "2093112724",
+      "143789213"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "3629",
+    "title": "Cultivating Semantics for Data in Agriculture and Nutrition. Recommendations from the RDA Agrisemantics Working Group",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2094211937"
+    ],
+    "num_reviewers": 1
+  },
+  {
+    "paper_id": "3630",
+    "title": "Une plateforme web a base dontologies pour lhebergement de modeles de simulation des maladies infectieuses",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1682119",
+      "2064474720"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3631",
+    "title": "Apprentissage des connaissances ontologiques a partir du code source Java avec les Chaines de Markov Cachees",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "1708081",
+      "2081345434",
+      "1792960",
+      "1701529",
+      "2899255"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "3632",
+    "title": "Vers l'Aide a la Decision Medicale sous des Donnees Manquantes",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "2066252198",
+      "105075473",
+      "2075586581",
+      "145201295",
+      "71615704"
+    ],
+    "num_reviewers": 5
+  },
+  {
+    "paper_id": "3633",
+    "title": "Intelligence Artificielle et Sante, une analyse retrospective depuis 2010",
+    "conference": "IC 2019",
+    "assigned_reviewers": [
+      "38602530",
+      "144474383",
+      "1721059",
+      "1753013"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "3644",
+    "title": "Knowledge Extraction From a Small Corpus of Unstructured Safeguarding Reports",
+    "conference": "ESWC2019 PosterDemo",
+    "assigned_reviewers": [
+      "2102859",
+      "1805399",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3677",
+    "title": "Using an existing website as a queryable low cost LOD publishing interface",
+    "conference": "ESWC2019 PosterDemo",
+    "assigned_reviewers": [
+      "2511068",
+      "1692708",
+      "1721059"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3688",
+    "title": "Loss Functions in Knowledge Graph Embedding Models",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "2079911",
+      "1861119",
+      "39876094"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3689",
+    "title": "Graph Convolution Based Classification for Ontology Alignment Change Prediction",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "1699771",
+      "1708906",
+      "2052329"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3690",
+    "title": "Mining Scholarly Data for Fine Grained Knowledge Graph Construction",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "1748257",
+      "3110430",
+      "33973438"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3691",
+    "title": "A Comprehensive Survey of Knowledge Graph Embeddings with Literals: Techniques and Applications",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "2052329",
+      "1708906"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3692",
+    "title": "Iterative Entity Alignment with Improved Neural Attribute Embedding",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "2077593657",
+      "3349721"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3693",
+    "title": "Combining embedding methods for a word intrusion task",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "2077593657",
+      "3349721",
+      "33973438",
+      "2346796"
+    ],
+    "num_reviewers": 4
+  },
+  {
+    "paper_id": "3694",
+    "title": "Knowledge Reconciliation with Graph Convolutional Networks: Preliminary Results",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "2079911",
+      "1721059"
+    ],
+    "num_reviewers": 2
+  },
+  {
+    "paper_id": "3695",
+    "title": "End to End Learning for Answering Structured Queries Directly over Text",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "3081683",
+      "1748257",
+      "1861119"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3696",
+    "title": "Can Knowledge Graphs and Deep Learning Approaches help in Representing, Detecting and Interpreting Metaphors?",
+    "conference": "DL4KG 2019",
+    "assigned_reviewers": [
+      "1699771",
+      "39876094",
+      "2346796"
+    ],
+    "num_reviewers": 3
+  },
+  {
+    "paper_id": "3697",
+    "title": "Disclosing Citation Meanings for Augmented Research Retrieval and Exploration",
+    "conference": "ESWC2019 papers",
+    "assigned_reviewers": [
+      "1721059",
+      "1398926410",
+      "40520756"
+    ],
+    "num_reviewers": 3
+  }
+]

@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reviewer Assignment Dashboard</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #ffffff;
+            color: #1f2937;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #0f172a;
+        }
+
+        h2 {
+            margin-top: 40px;
+            text-align: center;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .card {
+            background: #ffffff;
+            border: 1px solid #e2e8f0;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+            transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: #7dd3fc;
+            box-shadow: 0 18px 34px rgba(15, 23, 42, 0.12);
+        }
+
+        .btn {
+            padding: 8px 18px;
+            margin: 6px;
+            background: #0284c7;
+            color: #ffffff;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-block;
+            box-shadow: 0 10px 22px rgba(2, 132, 199, 0.2);
+            transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+        }
+
+        .btn:hover,
+        .btn:focus {
+            background: #0369a1;
+            transform: translateY(-2px);
+            box-shadow: 0 14px 28px rgba(2, 132, 199, 0.28);
+        }
+
+        .value {
+            font-size: 28px;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+
+        .mrr { color: #22c55e; }
+        .precision { color: #38bdf8; }
+        .recall { color: #facc15; }
+        .diversity { color: #a78bfa; }
+        .coverage { color: #f97316; }
+        .load { color: #f87171; }
+
+        .section {
+            margin-top: 40px;
+        }
+
+        .bar-container {
+            margin: 10px 0;
+        }
+
+        .bar {
+            background: #e2e8f0;
+            height: 18px;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+
+        .bar-fill {
+            height: 100%;
+            width: 0%;
+            transition: width 0.8s ease;
+        }
+
+        .bar-fill.mrr { background: #22c55e; }
+        .bar-fill.precision { background: #0284c7; }
+        .bar-fill.recall { background: #facc15; }
+
+        .empty {
+            text-align: center;
+            margin-top: 20px;
+            color: #dc2626;
+        }
+
+        .summary-card {
+            max-width: 400px;
+            margin: auto;
+        }
+
+        .wide-card {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        .metric-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            gap: 12px;
+            margin-top: 12px;
+        }
+
+        .metric-item {
+            background: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            padding: 12px;
+        }
+
+        .metric-label {
+            color: #64748b;
+            font-size: 12px;
+        }
+
+        .metric-value {
+            color: #0f172a;
+            font-size: 22px;
+            font-weight: bold;
+            margin-top: 5px;
+        }
+
+        .metric-button {
+            width: 100%;
+            text-align: left;
+            cursor: pointer;
+            color: inherit;
+        }
+
+        .metric-button:hover {
+            border-color: #38bdf8;
+            transform: translateY(-2px);
+        }
+
+        .workload-modal {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(15, 23, 42, 0.42);
+            z-index: 1000;
+            padding: 28px;
+        }
+
+        .workload-modal.open {
+            display: block;
+        }
+
+        .modal-panel {
+            background: #ffffff;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            max-width: 1180px;
+            max-height: 86vh;
+            margin: 0 auto;
+            padding: 18px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .modal-head, .modal-tools {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .modal-title {
+            color: #0f172a;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .modal-close, .filter-btn {
+            border: 1px solid #cbd5e1;
+            background: #ffffff;
+            color: #334155;
+            border-radius: 6px;
+            padding: 8px 10px;
+            cursor: pointer;
+        }
+
+        .filter-btn.active {
+            background: #0284c7;
+            border-color: #0284c7;
+            color: #ffffff;
+            font-weight: bold;
+        }
+
+        .modal-search {
+            background: #ffffff;
+            border: 1px solid #cbd5e1;
+            border-radius: 6px;
+            color: #1f2937;
+            padding: 8px 10px;
+            min-width: 230px;
+        }
+
+        .table-wrap {
+            overflow: auto;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+        }
+
+        .workload-table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 900px;
+            font-size: 13px;
+        }
+
+        .workload-table th, .workload-table td {
+            padding: 10px;
+            border-bottom: 1px solid #e2e8f0;
+            text-align: left;
+            white-space: nowrap;
+        }
+
+        .workload-table th {
+            position: sticky;
+            top: 0;
+            background: #f8fafc;
+            color: #0369a1;
+            z-index: 1;
+        }
+
+        .status-pill {
+            border-radius: 999px;
+            padding: 4px 8px;
+            font-weight: bold;
+            font-size: 12px;
+        }
+
+        .status-low { background: #064e3b; color: #bbf7d0; }
+        .status-moderate { background: #713f12; color: #fde68a; }
+        .status-high { background: #7c2d12; color: #fed7aa; }
+        .status-critical { background: #7f1d1d; color: #fecaca; }
+
+        .util-bar {
+            width: 120px;
+            height: 8px;
+            background: #e2e8f0;
+            border-radius: 999px;
+            overflow: hidden;
+        }
+
+        .util-fill {
+            height: 100%;
+            background: #22c55e;
+        }
+
+        .util-fill.moderate { background: #facc15; }
+        .util-fill.high { background: #fb923c; }
+        .util-fill.critical { background: #ef4444; }
+    </style>
+</head>
+
+<body>
+
+<h1>📊 Reviewer Assignment Dashboard</h1>
+
+<div style="text-align:center;margin-bottom:12px;">
+    <a href="/" class="btn">🏠 Home</a>
+    <a href="/upload" class="btn">📄 Upload</a>
+</div>
+
+{% if metrics %}
+
+<!-- ================= METRICS ================= -->
+
+<div class="grid">
+
+    <div class="card">
+        <h3>MRR</h3>
+        <div class="value mrr">{{ metrics.mrr }}</div>
+    </div>
+
+    <div class="card">
+        <h3>Precision@5</h3>
+        <div class="value precision">{{ metrics.precision }}</div>
+    </div>
+
+    <div class="card">
+        <h3>Recall@5</h3>
+        <div class="value recall">{{ metrics.recall }}</div>
+    </div>
+
+    <div class="card">
+        <h3>Diversity</h3>
+        <div class="value diversity">{{ metrics.diversity }}</div>
+    </div>
+
+    <div class="card">
+        <h3>Coverage</h3>
+        <div class="value coverage">{{ metrics.coverage }}</div>
+    </div>
+
+    <div class="card">
+        <h3>Load Balance</h3>
+        <div class="value load">{{ metrics.load_balance }}</div>
+    </div>
+
+</div>
+
+<!-- ================= PERFORMANCE BARS ================= -->
+
+<div class="section">
+    <h2>📈 Performance Overview</h2>
+
+    <div class="bar-container">
+        <p>MRR</p>
+        <div class="bar">
+            <div class="bar-fill mrr" data-width="{{ metrics.mrr }}"></div>
+        </div>
+    </div>
+
+    <div class="bar-container">
+        <p>Precision</p>
+        <div class="bar">
+            <div class="bar-fill precision" data-width="{{ metrics.precision }}"></div>
+        </div>
+    </div>
+
+    <div class="bar-container">
+        <p>Recall</p>
+        <div class="bar">
+            <div class="bar-fill recall" data-width="{{ metrics.recall }}"></div>
+        </div>
+    </div>
+
+</div>
+
+<!-- ================= SUMMARY ================= -->
+
+<div class="section">
+    <h2>📌 System Summary</h2>
+
+    <div class="card summary-card">
+        <p><b>Total Papers:</b> {{ stats.total_papers }}</p>
+        <p><b>Total Reviewers:</b> {{ stats.total_reviewers }}</p>
+        <p><b>Assignments Generated:</b> {{ stats.total_assignments }}</p>
+    </div>
+</div>
+
+{% else %}
+
+<div class="empty">
+    ❌ No metrics available. Run fusion + assignments first.
+</div>
+
+{% endif %}
+
+<!-- ================= SCRIPT ================= -->
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+
+    document.querySelectorAll('.bar-fill').forEach(function(el) {
+
+        let value = parseFloat(el.getAttribute('data-width'));
+
+        if (!isNaN(value)) {
+            el.style.width = (value * 100) + '%';
+        }
+
+    });
+
+});
+</script>
+
+</body>
+</html>

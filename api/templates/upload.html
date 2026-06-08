@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Reviewer Assignment</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+    color: #1f2937;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: #0f172a;
+    margin-bottom: 18px;
+}
+
+.nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.nav a {
+    padding: 10px 20px;
+    background: #0284c7;
+    color: #ffffff;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 5px;
+    display: inline-block;
+    box-shadow: 0 10px 24px rgba(2, 132, 199, 0.2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.nav a:hover,
+.nav a:focus {
+    background: #0369a1;
+    transform: translateY(-2px);
+    box-shadow: 0 14px 30px rgba(2, 132, 199, 0.28);
+}
+
+.container {
+    max-width: 1400px;
+    margin: auto;
+}
+
+.upload-box {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 25px;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 30px;
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.08);
+}
+
+.upload-box input[type="file"] {
+    background: #ffffff;
+    border: 1px dashed #94a3b8;
+    border-radius: 8px;
+    color: #334155;
+    padding: 12px;
+}
+
+.upload-box button {
+    background: #16a34a;
+    border: 0;
+    border-radius: 8px;
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 11px 20px;
+    box-shadow: 0 10px 22px rgba(22, 163, 74, 0.2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.upload-box button:hover,
+.upload-box button:focus {
+    background: #15803d;
+    transform: translateY(-2px);
+    box-shadow: 0 14px 28px rgba(22, 163, 74, 0.28);
+}
+
+.paper-browser {
+    margin-bottom: 30px;
+}
+
+.paper-browser h2 {
+    margin: 0 0 14px;
+}
+
+.paper-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 14px;
+}
+
+.paper-link {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
+.paper-list-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 16px;
+    min-height: 180px;
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.07);
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.paper-list-card:hover {
+    border-color: #7dd3fc;
+    transform: translateY(-3px);
+    box-shadow: 0 16px 32px rgba(15, 23, 42, 0.11);
+}
+
+.paper-list-title {
+    color: #0369a1;
+    font-weight: bold;
+    line-height: 1.35;
+}
+
+.paper-list-meta,
+.paper-list-abstract {
+    color: #475569;
+    font-size: 13px;
+    margin-top: 8px;
+}
+
+.paper-list-action {
+    color: #0284c7;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+.paper-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.08);
+}
+
+.paper-title {
+    color: #0369a1;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.method-panel {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 18px;
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.06);
+}
+
+.policy-banner {
+    background: #f0f9ff;
+    border-left: 4px solid #0284c7;
+    padding: 10px 12px;
+    border-radius: 6px;
+    margin-bottom: 12px;
+    font-size: 14px;
+    color: #0f172a;
+}
+
+.scoring-box {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 8px;
+    font-size: 13px;
+    color: #475569;
+}
+
+.ablation-toggle {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 14px 0 18px;
+}
+
+.ablation-btn {
+    border: 1px solid #cbd5e1;
+    background: #ffffff;
+    color: #334155;
+    border-radius: 6px;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease, color 0.2s ease;
+}
+
+.ablation-btn:hover,
+.ablation-btn:focus {
+    border-color: #0284c7;
+    color: #0369a1;
+    transform: translateY(-1px);
+}
+
+.ablation-btn.active {
+    background: #0284c7;
+    border-color: #0284c7;
+    color: #ffffff;
+}
+
+.ablation-panel {
+    display: none;
+}
+
+.ablation-panel.active {
+    display: block;
+}
+
+.reviewer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 20px;
+}
+
+.reviewer-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 12px 28px rgba(15, 23, 42, 0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.reviewer-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 18px 36px rgba(15, 23, 42, 0.12);
+}
+
+.reviewer-position-1 { border-left: 6px solid #22c55e; }
+.reviewer-position-2 { border-left: 6px solid #facc15; }
+.reviewer-position-3 { border-left: 6px solid #f87171; }
+
+.bar {
+    height: 8px;
+    background: #e2e8f0;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.fill {
+    height: 100%;
+    border-radius: 5px;
+    width: 0%;
+}
+
+.sim { background: #38bdf8; }
+.auth { background: #a78bfa; }
+.final { background: #22c55e; }
+.kg { background: #fb7185; }
+
+.small {
+    font-size: 13px;
+    margin-top: 6px;
+}
+
+.warn {
+    color: #dc2626;
+    margin-top: 8px;
+}
+
+.reason {
+    margin-top: 10px;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 13px;
+}
+
+.signal-row {
+    margin-top: 8px;
+}
+
+.signal, .badge {
+    display: inline-block;
+    border-radius: 999px;
+    padding: 3px 8px;
+    margin: 3px 4px 0 0;
+    font-size: 12px;
+}
+
+.signal {
+    background: #f8fafc;
+    color: #334155;
+    border: 1px solid #cbd5e1;
+}
+
+.badge {
+    background: #ecfeff;
+    color: #0e7490;
+    border: 1px solid #67e8f9;
+}
+
+.headline {
+    margin-top: 10px;
+    color: #0f172a;
+    font-weight: bold;
+}
+
+.rank-line {
+    color: #475569;
+    font-size: 13px;
+    margin-top: 7px;
+}
+
+.metric-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 10px;
+}
+
+.metric-item {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    padding: 10px;
+    transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.metric-item:hover {
+    border-color: #7dd3fc;
+    transform: translateY(-2px);
+}
+
+.metric-label {
+    color: #64748b;
+    font-size: 12px;
+}
+
+.metric-value {
+    color: #0f172a;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 4px;
+}
+
+.metric-button {
+    width: 100%;
+    text-align: left;
+    color: inherit;
+    cursor: pointer;
+}
+
+.metric-button:hover {
+    border-color: #0284c7;
+}
+
+.workload-modal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(15, 23, 42, 0.42);
+    z-index: 1000;
+    padding: 28px;
+}
+
+.workload-modal.open {
+    display: block;
+}
+
+.modal-panel {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    max-width: 1180px;
+    max-height: 86vh;
+    margin: 0 auto;
+    padding: 18px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.modal-head,
+.modal-tools {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.modal-title {
+    color: #0f172a;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.modal-close,
+.filter-btn {
+    border: 1px solid #cbd5e1;
+    background: #ffffff;
+    color: #334155;
+    border-radius: 6px;
+    padding: 8px 10px;
+    cursor: pointer;
+}
+
+.filter-btn.active {
+    background: #0284c7;
+    border-color: #0284c7;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.modal-search {
+    background: #ffffff;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    color: #1f2937;
+    padding: 8px 10px;
+    min-width: 230px;
+}
+
+.table-wrap {
+    overflow: auto;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+}
+
+.workload-table {
+    width: 100%;
+    border-collapse: collapse;
+    min-width: 900px;
+    font-size: 13px;
+}
+
+.workload-table th,
+.workload-table td {
+    padding: 10px;
+    border-bottom: 1px solid #e2e8f0;
+    text-align: left;
+    white-space: nowrap;
+}
+
+.workload-table th {
+    position: sticky;
+    top: 0;
+    background: #f8fafc;
+    color: #0369a1;
+    z-index: 1;
+}
+
+.status-pill {
+    border-radius: 999px;
+    padding: 4px 8px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.status-low { background: #064e3b; color: #bbf7d0; }
+.status-moderate { background: #713f12; color: #fde68a; }
+.status-high { background: #7c2d12; color: #fed7aa; }
+.status-critical { background: #7f1d1d; color: #fecaca; }
+
+.util-bar {
+    width: 120px;
+    height: 8px;
+    background: #e2e8f0;
+    border-radius: 999px;
+    overflow: hidden;
+}
+
+.util-fill {
+    height: 100%;
+    background: #22c55e;
+}
+
+.util-fill.moderate { background: #facc15; }
+.util-fill.high { background: #fb923c; }
+.util-fill.critical { background: #ef4444; }
+
+.load-status {
+    background: #f8fafc;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    padding: 8px 10px;
+    margin-top: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Reviewer Assignment System</h1>
+
+<div class="nav">
+    <a href="/">Home</a>
+</div>
+
+<div class="container">
+
+<div class="upload-box">
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".pdf" required>
+        <br><br>
+        <button type="submit">Upload & Analyze</button>
+    </form>
+</div>
+
+{% if papers and not paper %}
+<div class="paper-browser">
+    <h2>All Papers</h2>
+    <div class="paper-list">
+        {% for item in papers %}
+            <a class="paper-link" href="{{ url_for('upload', paper_id=item.paper_id) }}">
+                <div class="paper-list-card">
+                    <div class="paper-list-title">{{ item.title }}</div>
+                    <div class="paper-list-meta">
+                        ID: {{ item.paper_id }}
+                        {% if item.authors %} | Authors: {{ item.authors | join(', ') }}{% endif %}
+                    </div>
+                    <div class="paper-list-abstract">
+                        {{ item.abstract|default('')|truncate(170, False, '...') }}
+                    </div>
+                    <div class="paper-list-action">Click to display reviewers</div>
+                </div>
+            </a>
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
+
+{% if paper and reviewers %}
+
+<div class="paper-card">
+    <h2>Paper Details</h2>
+    <div class="paper-title">{{ paper.title }}</div>
+
+    {% if paper.authors %}
+        <p><b>Authors:</b> {{ paper.authors | join(', ') }}</p>
+    {% endif %}
+
+    <p>{{ paper.abstract }}</p>
+</div>
+
+<h2>Selected Reviewers</h2>
+
+<div class="method-panel">
+    <div class="policy-banner">
+        <b>Selection policy:</b> reviewer panels are constructed using semantic relevance, authority balancing, workload constraints, and complementary expertise diversification.
+    </div>
+    <div class="scoring-box">
+        <div><b>Formula:</b> Final Score = Semantic &times; w_s + KG<sub>effective</sub> &times; w_k + Authority &times; w_a + LLM expertise match &times; w_l + Workload availability &times; w_w.</div>
+        <div><b>KG Effective:</b> KG<sub>effective</sub> = KG similarity &times; KG confidence, so graph evidence contributes continuously while low-confidence evidence has less influence.</div>
+        <div><b>Panel Policy:</b> selected reviewers must pass panel quality floors and improve the overall balance of relevance, authority, workload, and complementary topical coverage.</div>
+        <div><b>Confidence:</b> Relevance confidence is used for interpretability and audit, not as a direct scoring term.</div>
+        <div><b>Scales:</b> Semantic scores are min-max normalized across the candidate pool; final display uses calibrated percentages to avoid overclaiming certainty.</div>
+        <div><b>Reproducibility:</b> fixed seeds and cached embeddings/assignments.</div>
+    </div>
+</div>
+
+{% if panel_summary %}
+<div class="method-panel">
+    <div class="policy-banner">
+        <b>Panel Summary:</b> hybrid multi-signal reviewer panel optimization with authority balancing, workload-aware ranking, and complementary topical diversification.
+    </div>
+    <div class="metric-list">
+        <div class="metric-item">
+            <div class="metric-label">Average Semantic Relevance</div>
+            <div class="metric-value">{{ panel_summary.average_semantic.label }}</div>
+        </div>
+        <div class="metric-item">
+            <div class="metric-label">KG Contribution</div>
+            <div class="metric-value">{{ panel_summary.kg_contribution.label }}</div>
+        </div>
+        <div class="metric-item">
+            <div class="metric-label">Average Authority</div>
+            <div class="metric-value">{{ panel_summary.authority_contribution.label }}</div>
+        </div>
+        <div class="metric-item">
+            <div class="metric-label">Alignment Confidence</div>
+            <div class="metric-value">{{ panel_summary.expertise_alignment }}</div>
+        </div>
+        <div class="metric-item">
+            <div class="metric-label">Topic Coverage Breadth</div>
+            <div class="metric-value">{{ panel_summary.topic_coverage }}</div>
+        </div>
+        <div class="metric-item">
+            <div class="metric-label">Panel Focus</div>
+            <div class="metric-value">{{ panel_summary.panel_focus }}</div>
+        </div>
+        <div class="metric-item">
+            <div class="metric-label">Selected for Current Paper</div>
+            <div class="metric-value">{{ panel_summary.selected_for_current_paper }}</div>
+        </div>
+        <div class="metric-item">
+            <div class="metric-label">Workload Balance</div>
+            <div class="metric-value">{{ panel_summary.workload_balance }}</div>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+{% if baseline_results %}
+<div class="method-panel">
+    <div class="policy-banner">
+        <b>Historical validation:</b> Historical validation metrics are displayed when reviewer assignment labels are available for the evaluated paper.
+    </div>
+    <div class="scoring-box">
+        {% for row in baseline_results %}
+            <div>
+                <b>{{ row.method }}:</b>
+                reviewers {{ row.reviewer_ids | join(', ') }}
+                {% if row.precision_at_3 is not none %}
+                    <span class="small">
+                    | Precision@3 {{ '%.3f'|format(row.precision_at_3) }}
+                    | Recall@3 {{ '%.3f'|format(row.recall_at_3) }}
+                    | MRR {{ '%.3f'|format(row.mrr) }}
+                    | NDCG@3 {{ '%.3f'|format(row.ndcg_at_3) }}
+                    </span>
+                {% endif %}
+                <span class="small">{{ row.description }}</span>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
+
+{% if ablation_results %}
+<div class="ablation-toggle" aria-label="Ablation mode">
+    {% for mode, result in ablation_results.items() %}
+        <button type="button" class="ablation-btn {{ 'active' if mode == active_mode else '' }}" data-mode="{{ mode }}">{{ result.label }}</button>
+    {% endfor %}
+</div>
+
+{% for mode, result in ablation_results.items() %}
+<div class="ablation-panel {{ 'active' if mode == active_mode else '' }}" data-panel="{{ mode }}">
+    {% if mode == 'semantic_kg' %}
+        <div class="policy-banner">
+            <b>MODE: SEMANTIC + KG</b> semantic relevance remains the anchor while effective KG evidence provides graph reinforcement. Authority is intentionally disabled in this ablation so it can be compared with Full Hybrid.
+        </div>
+    {% endif %}
+    <div class="reviewer-grid">
+    {% for card in result.cards %}
+        {% set role = card.role %}
+        {% set info = card.info %}
+        {% set d = card.details %}
+
+        <div class="reviewer-card reviewer-position-{{ card.index }}">
+            <b>{{ card.display_label or ('Reviewer ' ~ card.index) }}</b><br>
+            <div class="small">{{ d.policy_label }}</div>
+            <div class="headline">{{ d.why_selected }}</div>
+            <div class="small">ID: {{ card.reviewer_id }}</div>
+
+            <div class="load-status">
+                <div class="small"><b>Current Assignments:</b> {{ d.current_assignments }}</div>
+                <div class="small"><b>Capacity Status:</b> {{ d.capacity_status }}</div>
+                <div class="small"><b>Final Rank:</b> #{{ d.final_rank or card.index }}</div>
+            </div>
+
+            <div class="small signal-row">
+                {% for badge in d.badges %}
+                    <span class="badge">{{ badge }}</span>
+                {% endfor %}
+            </div>
+
+            <div class="rank-line">
+                Initial rank (semantic): #{{ d.initial_rank or 'N/A' }} -&gt; Final rank: #{{ d.final_rank or card.index }}
+            </div>
+            {% if d.selection_override_note %}
+                <div class="rank-line">{{ d.selection_override_note }}</div>
+            {% endif %}
+            <div class="rank-line">Constraint satisfied: {{ d.constraint_label }}</div>
+            <div class="rank-line">
+                Relevance confidence: {{ d.relevance_confidence_display }}
+                {% if d.relevance_confidence_label %}({{ d.relevance_confidence_label }}){% endif %}
+            </div>
+            <div class="rank-line">Panel contribution: {{ d.panel_contribution }}</div>
+            <div class="rank-line">Diversity: {{ d.diversity_gain_text }}</div>
+            <div class="rank-line">Topic coverage: {{ d.coverage_gain_text }}</div>
+
+            <div class="small">Similarity (cosine, normalized): {{ d.similarity_display.label }}</div>
+            <div class="bar">
+                <div class="fill sim" data-width="{{ d.similarity_display.bar }}"></div>
+            </div>
+
+            <div class="small">Authority (h-index/citations normalized): {{ d.authority_display_meta.label }}</div>
+            {% if d.authority_note %}
+                <div class="small">{{ d.authority_note }}</div>
+            {% endif %}
+            <div class="bar">
+                <div class="fill auth" data-width="{{ d.authority_display_meta.bar }}"></div>
+            </div>
+
+            <div class="small">KG contribution: {{ d.kg_effective_display.label }}</div>
+            <div class="bar">
+                <div class="fill kg" data-width="{{ d.kg_effective_display.bar }}"></div>
+            </div>
+
+            <div class="small">LLM expertise profile match: {{ d.llm_match_display.label }}</div>
+            <div class="bar">
+                <div class="fill final" data-width="{{ d.llm_match_display.bar }}"></div>
+            </div>
+            {% if d.llm_profile_overlap %}
+                <div class="small">Structured profile overlap: {{ d.llm_profile_overlap | join(', ') }}</div>
+            {% endif %}
+
+            <div class="small">Final Score: {{ d.final_display.label }}</div>
+            <div class="bar">
+                <div class="fill final" data-width="{{ d.final_display.bar }}"></div>
+            </div>
+            {% if d.rejection_reasons %}
+                <div class="small">
+                    Status: Policy note: {{ d.rejection_reasons | join('; ') }}.
+                </div>
+            {% endif %}
+            <div class="small">Confidence: {{ d.relevance_confidence_display }}</div>
+
+            <div class="small signal-row">
+                Signals used:
+                {% if d.signals %}
+                    {% for signal in d.signals %}
+                        <span class="signal">{{ signal|capitalize }}</span>
+                    {% endfor %}
+                {% else %}
+                    <span class="signal">Semantic</span>
+                {% endif %}
+            </div>
+
+            <div class="small">h-index: {{ info.h_index if info else 'N/A' }}</div>
+            <div class="small">Citations: {{ info.citations if info else 'N/A' }}</div>
+            <div class="small">Behavior: {{ info.behavior_score if info else 'N/A' }}</div>
+
+            {% if d.reason %}
+                <div class="reason">{{ d.reason }}</div>
+            {% endif %}
+
+            {% if d.weakness %}
+                <div class="warn">{{ d.weakness }}</div>
+            {% endif %}
+        </div>
+    {% endfor %}
+    </div>
+</div>
+{% endfor %}
+{% endif %}
+
+{% endif %}
+
+</div>
+
+<script>
+function setBarWidths(root) {
+    root.querySelectorAll(".fill").forEach(el => {
+        const width = Math.max(0, Math.min(98, Number(el.getAttribute("data-width")) || 0));
+        el.style.width = width + "%";
+    });
+}
+
+setBarWidths(document);
+
+document.querySelectorAll(".ablation-btn").forEach(button => {
+    button.addEventListener("click", () => {
+        const mode = button.getAttribute("data-mode");
+        document.querySelectorAll(".ablation-btn").forEach(item => item.classList.toggle("active", item === button));
+        document.querySelectorAll(".ablation-panel").forEach(panel => {
+            panel.classList.toggle("active", panel.getAttribute("data-panel") === mode);
+        });
+        setBarWidths(document);
+    });
+});
+</script>
+
+</body>
+</html>

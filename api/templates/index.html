@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reviewer Assignment System</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #ffffff;
+            color: #1f2937;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            padding: 56px 20px 46px;
+            text-align: center;
+            background: #f8fafc;
+            border-bottom: 1px solid #e2e8f0;
+        }
+
+        h1 {
+            font-size: 40px;
+            color: #0f172a;
+            margin-bottom: 14px;
+        }
+
+        p {
+            max-width: 700px;
+            margin: auto;
+            line-height: 1.6;
+            color: #475569;
+        }
+
+        .buttons {
+            margin-top: 25px;
+        }
+
+        .btn {
+            padding: 12px 25px;
+            margin: 10px;
+            background: #0284c7;
+            color: #ffffff;
+            border-radius: 8px;
+            font-weight: bold;
+            text-decoration: none;
+            display: inline-block;
+            box-shadow: 0 10px 24px rgba(2, 132, 199, 0.22);
+            transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+        }
+
+        .btn:hover,
+        .btn:focus {
+            background: #0369a1;
+            transform: translateY(-2px);
+            box-shadow: 0 14px 30px rgba(2, 132, 199, 0.28);
+        }
+
+        .section {
+            margin-top: 40px;
+            padding: 30px;
+        }
+
+        .grid {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        /* 🔥 FIXED LINK WRAPPER */
+        .card-link {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
+        .card {
+            background: #ffffff;
+            padding: 20px;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            width: 280px;
+            text-align: left;
+            box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
+            transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+            cursor: pointer;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: #7dd3fc;
+            box-shadow: 0 18px 34px rgba(15, 23, 42, 0.12);
+        }
+
+        .card h3 {
+            color: #0369a1;
+            font-size: 18px;
+        }
+
+        .meta {
+            font-size: 12px;
+            color: #64748b;
+            margin-top: 10px;
+        }
+
+        .abstract {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #475569;
+        }
+
+        .empty {
+            text-align: center;
+            margin-top: 20px;
+            color: #dc2626;
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header>
+    <h1>📄 Reviewer Assignment System</h1>
+
+    <p>
+        AI-powered system that matches research papers with suitable reviewers 
+        using semantic similarity, knowledge graphs, and multi-agent reasoning.
+    </p>
+
+    <div class="buttons">
+        <a href="/upload" class="btn">📄 Upload Paper</a>
+    </div>
+</header>
+
+<!-- PAPERS -->
+<div class="section">
+    <h2 style="text-align:center;">📚 Available Papers</h2>
+
+    <div class="grid">
+
+        {% if papers %}
+            {% for paper in papers %}
+
+                <a href="{{ url_for('upload', paper_id=paper.paper_id) }}" class="card-link">
+
+                    <div class="card">
+
+                        <h3>{{ paper.title }}</h3>
+
+                        <div class="abstract">
+                            {{ paper.abstract|default('')|truncate(150, False, '...') }}
+                        </div>
+
+                        <div class="meta">
+                            <p><b>ID:</b> {{ paper.paper_id }}</p>
+
+                            {% if paper.authors %}
+                                <p><b>Authors:</b> {{ paper.authors | join(', ') }}</p>
+                            {% endif %}
+                        </div>
+
+                    </div>
+
+                </a>
+
+            {% endfor %}
+        {% else %}
+            <div class="empty">
+                ❌ No papers found
+            </div>
+        {% endif %}
+
+    </div>
+</div>
+
+<!-- INFO -->
+<div class="section">
+    <h2 style="text-align:center;">⚙️ How It Works</h2>
+
+    <div class="grid">
+
+        <div class="card">
+            <h3>1. Extract</h3>
+            <p>Extract title, abstract, and metadata from papers.</p>
+        </div>
+
+        <div class="card">
+            <h3>2. Analyze</h3>
+            <p>Use embeddings + knowledge graph for topic understanding.</p>
+        </div>
+
+        <div class="card">
+            <h3>3. Rank</h3>
+            <p>Compute similarity scores and rank reviewers.</p>
+        </div>
+
+        <div class="card">
+            <h3>4. Assign</h3>
+            <p>Select authority-balanced reviewer panels.</p>
+        </div>
+
+    </div>
+</div>
+
+</body>
+</html>

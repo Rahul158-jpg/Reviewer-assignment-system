@@ -1,0 +1,83 @@
+[
+  {
+    "version": "Base semantic only",
+    "precision_at_3": 0.04396728016359918,
+    "recall_at_3": 0.04100204498977505,
+    "mrr": 0.12792421372384388,
+    "ndcg_at_3": 0.04741300715542788,
+    "map": 0.0623168024086294,
+    "evaluated_papers": 652
+  },
+  {
+    "version": "Semantic + authority",
+    "precision_at_3": 0.015337423312883436,
+    "recall_at_3": 0.013752556237218813,
+    "mrr": 0.059612603312703294,
+    "ndcg_at_3": 0.016076559999042978,
+    "map": 0.027313524648459233,
+    "evaluated_papers": 652
+  },
+  {
+    "version": "Semantic + KG",
+    "precision_at_3": 0.03987730061349693,
+    "recall_at_3": 0.03514826175869121,
+    "mrr": 0.12480333579468374,
+    "ndcg_at_3": 0.043775218155155504,
+    "map": 0.06042947677130377,
+    "evaluated_papers": 652
+  },
+  {
+    "version": "Semantic + LLM Profile",
+    "precision_at_3": 0.04907975460122699,
+    "recall_at_3": 0.04772494887525562,
+    "mrr": 0.1325738921479145,
+    "ndcg_at_3": 0.05613973768374841,
+    "map": 0.06256074509657894,
+    "evaluated_papers": 652
+  },
+  {
+    "version": "Semantic + KG + LLM Profile",
+    "precision_at_3": 0.03987730061349693,
+    "recall_at_3": 0.03747443762781186,
+    "mrr": 0.123094530406354,
+    "ndcg_at_3": 0.045260049420566224,
+    "map": 0.0591528500640039,
+    "evaluated_papers": 652
+  },
+  {
+    "version": "Semantic + KG + light authority",
+    "precision_at_3": 0.03271983640081799,
+    "recall_at_3": 0.03008691206543967,
+    "mrr": 0.11111704084436819,
+    "ndcg_at_3": 0.03607530369588553,
+    "map": 0.05390592949410488,
+    "evaluated_papers": 652
+  },
+  {
+    "version": "Reciprocal rank fusion",
+    "precision_at_3": 0.037321063394683024,
+    "recall_at_3": 0.03341002044989775,
+    "mrr": 0.11677734499535221,
+    "ndcg_at_3": 0.04019974079365312,
+    "map": 0.05438612724326934,
+    "evaluated_papers": 652
+  },
+  {
+    "version": "COI filtering",
+    "precision_at_3": 0.041922290388548056,
+    "recall_at_3": 0.03870143149284253,
+    "mrr": 0.12274574831528576,
+    "ndcg_at_3": 0.04484461798254453,
+    "map": 0.05898517953262685,
+    "evaluated_papers": 652
+  },
+  {
+    "version": "Full system",
+    "precision_at_3": 0.040388548057259714,
+    "recall_at_3": 0.03990286298568507,
+    "mrr": 0.12364939991853145,
+    "ndcg_at_3": 0.04534835719246985,
+    "map": 0.05879167519300754,
+    "evaluated_papers": 652
+  }
+]

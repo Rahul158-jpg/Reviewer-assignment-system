@@ -1,0 +1,12 @@
+{
+  "threshold": 0.5,
+  "labels_source": "data/coi_graph.json flagged field",
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "tp": 65,
+  "fp": 0,
+  "tn": 1928,
+  "fn": 0,
+  "evaluated_pairs": 1993
+}
