@@ -1,8 +1,8 @@
 # A Hybrid Knowledge Graph Based Model for Intelligent Reviewer Assignment
 
-This repository contains the code, datasets, experiments, and evaluation framework developed for the research paper:
+This repository contains the code, datasets, experiments, and evaluation system developed for the research paper:
 
-**"A Multi-Agent LLM and Knowledge Graph Framework for Intelligent Reviewer Assignment in Scholarly Publishing"**
+**"A Multi-Agent LLM and Knowledge Graph system for Intelligent Reviewer Assignment in Scholarly Publishing"**
 
 ---
 
@@ -20,8 +20,8 @@ The framework integrates:
 * Manuscript quality assessment
 * Reviewer reliability estimation
 * Conflict-of-interest detection
-* Fairness-aware workload balancing
-* Multi-agent decision aggregation
+* Fairness aware workload balancing
+* Multi agent decision aggregation
 
 The system aims to improve reviewer recommendation quality while maintaining transparency, fairness, and scalability for modern scholarly publishing environments.
 
