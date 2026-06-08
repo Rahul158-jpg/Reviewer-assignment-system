@@ -167,8 +167,8 @@ Graph features include:
 
 * Expertise entities
 * Research topics
-* Author-topic relationships
-* Reviewer-topic connectivity
+* Author topic relationships
+* Reviewer topic connectivity
 
 Generated features:
 
@@ -233,7 +233,7 @@ Fairness considerations:
 
 ## 7️⃣ Multi-Agent Decision Aggregation
 
-Outputs from semantic retrieval, knowledge graphs, and LLM agents are combined using a weighted ranking framework to generate final reviewer recommendations.
+Outputs from semantic retrieval, knowledge graphs, and LLM agents are combined using a weighted ranking system to generate final reviewer recommendations.
 
 ---
 
@@ -296,7 +296,6 @@ The framework is evaluated using:
 * Knowledge Graph features dominate ranking decisions.
 * Semantic similarity alone is insufficient for reviewer assignment.
 * Reviewer expertise modeling improves interpretability.
-* Fairness-aware ranking prevents reviewer overloading.
 * Conflict detection increases assignment reliability.
 
 ---
@@ -353,37 +352,8 @@ Results are stored in the `results/` directory.
 # 🎯 Contributions
 
 * Multi-agent reviewer assignment architecture
-* Knowledge graph-based expertise modeling
-* LLM-driven reviewer suitability estimation
+* Knowledge graph based expertise modeling
+* LLM driven reviewer suitability estimation
 * Conflict-of-interest detection framework
-* Fairness-aware reviewer allocation
+* Fairness aware reviewer allocation
 * Comprehensive ablation and evaluation analysis
-
----
-
-# 📚 Citation
-
-If you use this repository in your research, please cite:
-
-```bibtex
-@article{yourpaper2026,
-  title={A Multi-Agent LLM and Knowledge Graph Framework for Intelligent Reviewer Assignment in Scholarly Publishing},
-  author={Your Name},
-  journal={Under Review},
-  year={2026}
-}
-```
-
----
-
-# 📬 Contact
-
-**Sai**
-
-MCA Student
-
-Vignan's LARA Institute of Technology and Science
-
-Email: [your-email@example.com](mailto:your-email@example.com)
-
-For questions, issues, or collaboration opportunities, please open an issue or contact the author.
