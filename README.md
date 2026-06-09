@@ -372,7 +372,6 @@ The system generates:
 * Reviewer suitability scores
 * Knowledge graph features
 * Conflict detection reports
-* Fairness statistics
 * Evaluation summaries
 
 Results are stored in the `results/` directory.
@@ -385,5 +384,4 @@ Results are stored in the `results/` directory.
 * Knowledge graph based expertise modeling
 * LLM driven reviewer suitability estimation
 * Conflict-of-interest detection framework
-* Fairness aware reviewer allocation
 * Comprehensive ablation and evaluation analysis
