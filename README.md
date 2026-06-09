@@ -30,66 +30,96 @@ The system aims to improve reviewer recommendation quality while maintaining tra
 # 📁 Repository Structure
 
 ```text
-📦Reviewer-Assignment-System/
+📦 Reviewer-Assignment/
+│
+├── agents/
+│   ├── agent_acceptance.py
+│   ├── agent_coi.py
+│   ├── agent_quality.py
+│   ├── agent_reliability.py
+│   ├── llm_client.py
+│   └── unified_agent.py
+│
+├── api/
+│   ├── app.py
+│   └── templates/
+│       ├── dashboard.html
+│       ├── index.html
+│       └── upload.html
+│
+├── assignment/
+│   └── assigner.py
 │
 ├── data/
-│   ├── manuscripts.csv
-│   ├── reviewers.csv
-│   ├── ground_truth.csv
-│   └── conflict_labels.csv
+│   ├── processed/
+│   │   ├── coi_graph.json
+│   │   ├── ground_truth.json
+│   │   ├── manuscripts.json
+│   │   └── reviewers.json
+│   └── raw/
+│       ├── openalex_authors.txt
+│       ├── openreview_confirence.txt
+│       └── openreview.json
 │
-├── src/
-│   │
-│   ├── preprocessing/
-│   │   ├── text_cleaning.py
-│   │   ├── topic_extraction.py
-│   │   └── embedding_generation.py
-│   │
-│   ├── knowledge_graph/
-│   │   ├── kg_builder.py
-│   │   ├── graph_features.py
-│   │   └── node_embeddings.py
-│   │
-│   ├── semantic_matching/
-│   │   ├── semantic_similarity.py
-│   │   └── candidate_retrieval.py
-│   │
-│   ├── llm_agents/
-│   │   ├── expertise_agent.py
-│   │   ├── suitability_agent.py
-│   │   ├── reliability_agent.py
-│   │   ├── quality_agent.py
-│   │   └── decision_agent.py
-│   │
-│   ├── fairness/
-│   │   ├── workload_balancer.py
-│   │   └── fairness_metrics.py
-│   │
-│   ├── conflict_detection/
-│   │   ├── conflict_detector.py
-│   │   └── conflict_evaluation.py
-│   │
-│   ├── ranking/
-│   │   ├── hybrid_ranking.py
-│   │   └── rank_aggregation.py
-│   │
-│   └── evaluation/
-│       ├── evaluate.py
-│       ├── ablation_study.py
-│       └── metrics.py
+├── evaluation/
+│   ├── fairness_metrics.py
+│   ├── ranking_metrics.py
+│   ├── results_table.py
+│   └── system_metrics.py
+│
+├── fusion/
+│   └── fusion_scorer.py
+│
+├── kg/
+│   ├── CSO_classifier.py
+│   ├── GLINER_classifier.py
+│   ├── gliner_extractor.py
+│   ├── kg_builder.py
+│   ├── kg_similarity.py
+│   └── node2vec_embedder.py
+│
+├── llm/
+│   ├── coi_validator.py
+│   ├── manuscript_profiler.py
+│   ├── profile_utils.py
+│   └── reviewer_profiler.py
+│
+├── similarity/
+│   ├── embedding_model.py
+│   ├── hybrid_scorer.py
+│   ├── kg_similarity.py
+│   ├── similarity_calculator.py
+│   └── single_paper_similarity.py
+│
+├── tools/
+│   ├── analyze_learned_ranker.py
+│   ├── analyze_llm_signal.py
+│   ├── run_full_evaluation.py
+│   ├── test_pdf_extract.py
+│   ├── train_learned_ranker.py
+│   ├── tune_fusion_weights.py
+│   └── validate_overlap.py
+│
+├── utils/
+│   ├── keywords.py
+│   ├── loader.py
+│   ├── pdf_extract.py
+│   └── preprocessing.py
 │
 ├── results/
-│   ├── evaluation_summary.md
 │   ├── ablation_results.csv
-│   ├── fairness_values.csv
+│   ├── ablation_results.json
 │   ├── conflict_detection_evaluation.csv
-│   └── reviewer_rankings.csv
-│
+│   ├── conflict_detection_evaluation.json
+│   ├── fairness_values.csv
+│   ├── fairness_values.json
+│   ├── final_metric_table.csv
+│   └── final_metric_table.json
+|
+├── main.py
+├── ollama.py
 ├── requirements.txt
-├── README.md
-└── main.py
-```
-
+└── README.md
 ---
 
 # 🔧 Installation
